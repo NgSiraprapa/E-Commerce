@@ -11,7 +11,7 @@ import math
 import os
 
 # Set Streamlit Page Configuration
-st.set_page_config(page_title="Demand Forecasting")
+st.set_page_config(page_title="Demand Forecasting", layout="wide")
 
 # Load and preprocess dataset
 def load_data(file_path):
@@ -92,12 +92,17 @@ if sales_data is not None:
 
     # Display all information on a single page
     st.subheader("📌 Sales Over Time")
-    st.plotly_chart(px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='📉 Historical Sales Trend', markers=True))
+    fig1 = px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='📉 Historical Sales Trend', markers=True)
+    fig1.update_traces(line=dict(width=2))
+    fig1.update_layout(template="plotly_dark")
+    st.plotly_chart(fig1, use_container_width=True)
 
     st.subheader("📌 Predicted Sales (Next 6 Months)")
-    fig = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
+    fig2 = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
                   title='🔮 Sales Forecast Comparison', markers=True)
-    st.plotly_chart(fig)
+    fig2.update_traces(line=dict(width=2))
+    fig2.update_layout(template="plotly_dark")
+    st.plotly_chart(fig2, use_container_width=True)
 
     st.subheader("📌 Model Performance Metrics")
     st.write("📊 **Performance of different forecasting models:**")

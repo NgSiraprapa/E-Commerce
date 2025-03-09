@@ -27,9 +27,6 @@ st.title("Demand Forecasting Dashboard")
 file_path = "E-Commerce_Analytics_Dataset_Term_Project.csv"
 sales_data = load_data(file_path)
 
-# Streamlit app layout
-st.set_page_config(page_title="Demand Forecasting Dashboard", layout="wide")
-
 if sales_data is not None:
     # Feature Engineering: Convert dates to numerical features
     sales_data['Date'] = sales_data['Order Date'].map(pd.Timestamp.toordinal)

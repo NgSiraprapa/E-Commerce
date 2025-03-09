@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Product Category,Purchase Amount (USD),Order Date,Shipping Time (Days),Inventory Stock,Customer Age,Customer Gender,Customer Location,Customer Lifetime Value (USD),Churn Risk,Warehouse Location
+10001,103,Clothing,19.03,1/1/2024,10,63,32,Male,Pattaya,3995.56,Low,Warehouse C
+10002,436,Electronics,221.8,1/2/2024,9,94,22,Female,Pattaya,900.44,Low,Warehouse A
+10003,349,Toys,421.66,1/3/2024,6,110,63,Female,Chiang Mai,611.13,Low,Warehouse A
+10004,271,Home & Kitchen,202.15,1/4/2024,5,189,23,Other,Chiang Mai,813.03,Medium,Warehouse C
+10005,107,Home & Kitchen,97.95,1/5/2024,3,30,42,Male,Chiang Mai,4397.93,Medium,Warehouse B
+10006,72,Electronics,379.31,1/6/2024,9,29,63,Female,Bangkok,2688.13,Low,Warehouse A
+10007,189,Sports,396.52,1/7/2024,5,142,57,Male,Hat Yai,2389.58,Medium,Warehouse A
+10008,21,Electronics,95.14,1/8/2024,5,49,46,Female,Chiang Mai,622.89,Low,Warehouse A
+10009,103,Clothing,387.72,1/9/2024,14,87,24,Male,Hat Yai,3282.82,Medium,Warehouse A
+10010,122,Electronics,474.18,1/10/2024,4,15,57,Female,Bangkok,4353.2,High,Warehouse A
+10011,467,Home & Kitchen,91.53,1/11/2024,14,185,30,Other,Hat Yai,4158.11,Low,Warehouse B
+10012,215,Electronics,387.78,1/12/2024,4,108,55,Other,Phuket,3167.67,Low,Warehouse C
+10013,331,Sports,357.2,1/13/2024,12,72,35,Male,Hat Yai,468.87,Low,Warehouse B
+10014,459,Toys,242.05,1/14/2024,1,99,19,Female,Chiang Mai,650.75,Low,Warehouse B
+10015,88,Beauty,38.38,1/15/2024,7,160,25,Female,Bangkok,341.61,Low,Warehouse A
+10016,373,Electronics,46.6,1/16/2024,9,69,28,Male,Chiang Mai,1361.65,Low,Warehouse B
+10017,100,Sports,427.68,1/17/2024,3,53,50,Female,Phuket,764.74,Low,Warehouse A
+10018,360,Sports,495.17,1/18/2024,12,179,55,Male,Chiang Mai,1374.24,Low,Warehouse B
+10019,152,Toys,341.27,1/19/2024,13,56,44,Female,Chiang Mai,1986.78,Low,Warehouse A
+10020,131,Home & Kitchen,228.52,1/20/2024,2,106,37,Male,Chiang Mai,4720.62,Low,Warehouse A
+10021,150,Sports,327.31,1/21/2024,3,186,29,Female,Pattaya,3090.84,Low,Warehouse B
+10022,309,Sports,301.25,1/22/2024,1,192,60,Male,Phuket,4191.37,Medium,Warehouse B
+10023,258,Sports,197.97,1/23/2024,6,61,48,Female,Chiang Mai,3580.72,Medium,Warehouse C
+10024,344,Sports,42.16,1/24/2024,11,51,44,Other,Chiang Mai,651.27,Low,Warehouse C
+10025,492,Clothing,412.54,1/25/2024,11,163,49,Female,Chiang Mai,3706.01,Low,Warehouse C
+10026,414,Clothing,192.2,1/26/2024,7,178,27,Male,Bangkok,1447.98,Medium,Warehouse B
+10027,294,Home & Kitchen,411.2,1/27/2024,11,30,20,Other,Pattaya,3231.63,High,Warehouse B
+10028,386,Electronics,133.73,1/28/2024,11,118,62,Female,Bangkok,1770.71,Low,Warehouse A
+10029,192,Sports,10.5,1/29/2024,2,9,44,Other,Pattaya,4988.59,Low,Warehouse C
+10030,444,Toys,87.88,1/30/2024,8,88,52,Female,Chiang Mai,1391.4,Low,Warehouse A
+10031,277,Electronics,239.58,1/31/2024,14,56,48,Other,Phuket,1467.74,Low,Warehouse A
+10032,161,Toys,472.71,2/1/2024,6,109,32,Male,Hat Yai,4660.29,Low,Warehouse A
+10033,460,Electronics,60.07,2/2/2024,14,58,33,Female,Hat Yai,220.76,Low,Warehouse A
+10034,314,Home & Kitchen,428.56,2/3/2024,4,165,30,Female,Chiang Mai,3513.78,Medium,Warehouse C
+10035,22,Sports,268.24,2/4/2024,5,182,52,Male,Bangkok,3654.1,Low,Warehouse A
+10036,253,Sports,414.7,2/5/2024,8,170,28,Other,Phuket,4198.26,Low,Warehouse B
+10037,236,Beauty,156.2,2/6/2024,14,159,38,Male,Pattaya,4874.75,Low,Warehouse B
+10038,345,Toys,421.57,2/7/2024,3,19,28,Male,Chiang Mai,4880.45,Low,Warehouse B
+10039,49,Electronics,388.68,2/8/2024,3,65,47,Other,Phuket,419.86,Low,Warehouse C
+10040,475,Electronics,122.73,2/9/2024,14,126,52,Male,Phuket,4127.01,Low,Warehouse A
+10041,59,Clothing,74.35,2/10/2024,14,25,39,Female,Pattaya,3266.92,Medium,Warehouse C
+10042,170,Beauty,435.35,2/11/2024,11,50,55,Female,Phuket,3271.98,Low,Warehouse A
+10043,476,Clothing,481.99,2/12/2024,4,138,48,Female,Bangkok,728.91,Medium,Warehouse C
+10044,188,Clothing,25.34,2/13/2024,1,42,31,Male,Bangkok,3285.92,High,Warehouse C
+10045,464,Clothing,368.32,2/14/2024,9,66,41,Female,Bangkok,4914.16,Low,Warehouse A
+10046,271,Toys,455.67,2/15/2024,8,90,49,Female,Phuket,4567.91,Low,Warehouse C
+10047,190,Toys,430.11,2/16/2024,8,194,53,Female,Bangkok,2251.74,Low,Warehouse A
+10048,446,Home & Kitchen,482.62,2/17/2024,14,82,49,Female,Pattaya,295.75,Medium,Warehouse B
+10049,175,Home & Kitchen,382.45,2/18/2024,10,50,32,Female,Phuket,1875.24,High,Warehouse B
+10050,446,Clothing,226.73,2/19/2024,6,145,60,Female,Hat Yai,4149.31,Medium,Warehouse B
+10051,51,Beauty,162.86,2/20/2024,7,7,52,Male,Phuket,3537.35,Low,Warehouse C
+10052,364,Electronics,167.16,2/21/2024,6,10,20,Female,Pattaya,2350.78,Medium,Warehouse B
+10053,55,Toys,364.97,2/22/2024,9,97,33,Female,Hat Yai,370,Low,Warehouse A
+10054,244,Beauty,375.46,2/23/2024,3,12,22,Other,Phuket,2191.78,Low,Warehouse B
+10055,320,Sports,108.18,2/24/2024,14,176,38,Male,Bangkok,2398.22,Low,Warehouse B
+10056,131,Toys,435.38,2/25/2024,3,112,27,Male,Chiang Mai,4649.92,Low,Warehouse C
+10057,485,Toys,360.31,2/26/2024,3,165,36,Male,Chiang Mai,3241.32,Medium,Warehouse A
+10058,307,Home & Kitchen,285.75,2/27/2024,10,79,42,Male,Bangkok,1627.1,Low,Warehouse C
+10059,135,Electronics,241.05,2/28/2024,3,81,21,Female,Chiang Mai,2674.06,Low,Warehouse C
+10060,21,Electronics,276.18,2/29/2024,9,54,46,Female,Chiang Mai,423.67,Low,Warehouse A
+10061,329,Sports,88.03,3/1/2024,12,15,36,Other,Bangkok,4865.58,Medium,Warehouse C
+10062,167,Sports,109.81,3/2/2024,4,99,60,Other,Bangkok,1864.29,Medium,Warehouse A
+10063,274,Toys,54.67,3/3/2024,13,160,19,Male,Phuket,2441.55,Low,Warehouse B
+10064,388,Clothing,85.29,3/4/2024,7,74,27,Other,Phuket,1840.89,Low,Warehouse A
+10065,89,Home & Kitchen,232.31,3/5/2024,14,173,60,Other,Bangkok,3444.31,Low,Warehouse A
+10066,316,Home & Kitchen,269.87,3/6/2024,9,20,42,Male,Pattaya,3344.94,High,Warehouse A
+10067,14,Toys,18.75,3/7/2024,11,72,37,Male,Chiang Mai,3605.08,Low,Warehouse C
+10068,242,Beauty,400.43,3/8/2024,12,103,36,Other,Phuket,1413.9,Low,Warehouse A
+10069,265,Clothing,154.14,3/9/2024,7,52,40,Female,Chiang Mai,1646.78,Low,Warehouse A
+10070,346,Toys,456.8,3/10/2024,9,188,41,Other,Hat Yai,713.73,Low,Warehouse A
+10071,53,Clothing,484.08,3/11/2024,12,68,28,Other,Bangkok,3312,Medium,Warehouse B
+10072,386,Clothing,100.87,3/12/2024,3,191,63,Female,Pattaya,295.01,Low,Warehouse A
+10073,340,Clothing,236.43,3/13/2024,4,94,51,Female,Hat Yai,3028.64,Low,Warehouse C
+10074,92,Toys,10.6,3/14/2024,14,194,45,Male,Hat Yai,4361.51,Low,Warehouse A
+10075,367,Home & Kitchen,303.18,3/15/2024,8,80,22,Male,Hat Yai,4465.08,Low,Warehouse A
+10076,444,Home & Kitchen,307.58,3/16/2024,6,143,22,Other,Bangkok,2300.29,High,Warehouse B
+10077,455,Clothing,131.29,3/17/2024,5,105,38,Female,Phuket,2350.59,Low,Warehouse A
+10078,428,Beauty,283.62,3/18/2024,13,93,29,Male,Bangkok,477.15,Medium,Warehouse C
+10079,264,Electronics,120.51,3/19/2024,4,22,21,Other,Phuket,3386.75,Medium,Warehouse A
+10080,431,Toys,88.8,3/20/2024,8,23,59,Female,Hat Yai,4124.17,Low,Warehouse C
+10081,35,Electronics,329.24,3/21/2024,1,59,37,Other,Hat Yai,1298.81,Low,Warehouse B
+10082,206,Beauty,169.7,3/22/2024,14,106,55,Male,Pattaya,2164.37,Low,Warehouse A
+10083,81,Toys,299.23,3/23/2024,9,122,42,Male,Phuket,4210.31,Medium,Warehouse B
+10084,420,Clothing,222.29,3/24/2024,1,158,31,Female,Hat Yai,4397.89,Low,Warehouse A
+10085,50,Home & Kitchen,492.33,3/25/2024,8,138,28,Other,Chiang Mai,1291.58,Low,Warehouse C
+10086,360,Electronics,83.29,3/26/2024,4,8,49,Female,Pattaya,2797.8,Low,Warehouse B
+10087,388,Sports,237.65,3/27/2024,9,112,28,Male,Bangkok,1043.22,Medium,Warehouse A
+10088,2,Sports,343.42,3/28/2024,14,119,35,Male,Pattaya,599.21,Low,Warehouse C
+10089,390,Beauty,203.82,3/29/2024,11,33,44,Other,Chiang Mai,4564.49,Low,Warehouse B
+10090,54,Clothing,487.6,3/30/2024,5,63,35,Other,Phuket,4120.49,Low,Warehouse A
+10091,106,Electronics,363.72,3/31/2024,3,129,40,Other,Bangkok,3824.17,Low,Warehouse B
+10092,260,Clothing,331.92,4/1/2024,9,102,28,Female,Bangkok,338.95,Medium,Warehouse A
+10093,310,Electronics,380.96,4/2/2024,11,21,38,Other,Phuket,4234.27,Low,Warehouse C
+10094,477,Beauty,476.8,4/3/2024,14,111,61,Other,Pattaya,2246.42,Medium,Warehouse C
+10095,191,Beauty,454.83,4/4/2024,14,47,22,Male,Hat Yai,1777.74,Medium,Warehouse B
+10096,402,Sports,364.9,4/5/2024,9,84,40,Male,Pattaya,2777.73,Low,Warehouse B
+10097,218,Clothing,377.09,4/6/2024,4,198,58,Other,Chiang Mai,547.63,Medium,Warehouse A
+10098,44,Toys,81.5,4/7/2024,11,166,42,Other,Hat Yai,3807.57,Low,Warehouse C
+10099,162,Sports,60.37,4/8/2024,4,12,58,Male,Pattaya,2953.93,Low,Warehouse A
+10100,202,Clothing,289.74,4/9/2024,12,145,27,Other,Phuket,1014.29,Medium,Warehouse C
+10101,446,Sports,19,4/10/2024,8,110,39,Female,Chiang Mai,1022.34,Low,Warehouse B
+10102,484,Toys,246.35,4/11/2024,2,12,36,Female,Chiang Mai,1002.82,Medium,Warehouse A
+10103,270,Home & Kitchen,113.07,4/12/2024,9,100,18,Female,Chiang Mai,379.31,Low,Warehouse A
+10104,351,Home & Kitchen,179.55,4/13/2024,13,98,24,Other,Hat Yai,2980.21,High,Warehouse C
+10105,304,Home & Kitchen,390.14,4/14/2024,14,69,21,Male,Bangkok,4217.71,Low,Warehouse C
+10106,271,Home & Kitchen,471.21,4/15/2024,6,175,18,Other,Hat Yai,185.74,Low,Warehouse C
+10107,456,Electronics,45.48,4/16/2024,9,43,32,Other,Pattaya,340.12,Low,Warehouse B
+10108,462,Home & Kitchen,271.78,4/17/2024,8,85,57,Male,Bangkok,2906.57,Medium,Warehouse A
+10109,215,Toys,442.44,4/18/2024,7,191,29,Male,Pattaya,4115.53,Medium,Warehouse C
+10110,252,Beauty,50.43,4/19/2024,13,88,39,Male,Bangkok,1701.02,Low,Warehouse B
+10111,190,Beauty,414.01,4/20/2024,14,92,39,Female,Hat Yai,1813.11,Medium,Warehouse C
+10112,296,Electronics,185.32,4/21/2024,1,90,64,Other,Chiang Mai,3022.1,Low,Warehouse A
+10113,213,Home & Kitchen,167.83,4/22/2024,14,97,34,Male,Phuket,1443.64,Low,Warehouse C
+10114,208,Home & Kitchen,488.96,4/23/2024,12,90,46,Other,Chiang Mai,230.38,Medium,Warehouse A
+10115,237,Home & Kitchen,108.42,4/24/2024,3,48,63,Female,Hat Yai,3702.62,Medium,Warehouse B
+10116,338,Sports,349.67,4/25/2024,11,141,31,Female,Bangkok,3165.68,Medium,Warehouse B
+10117,367,Clothing,412.51,4/26/2024,14,169,37,Male,Chiang Mai,2945.7,Medium,Warehouse C
+10118,53,Sports,30.18,4/27/2024,2,78,50,Male,Hat Yai,3734.25,Low,Warehouse A
+10119,280,Clothing,338.49,4/28/2024,5,40,60,Other,Pattaya,3408.63,Medium,Warehouse A
+10120,410,Home & Kitchen,476.26,4/29/2024,5,105,32,Male,Phuket,1108.82,Low,Warehouse A
+10121,217,Home & Kitchen,70.87,4/30/2024,5,160,29,Other,Chiang Mai,1827.16,Low,Warehouse C
+10122,252,Sports,449.15,5/1/2024,4,174,57,Male,Bangkok,717.94,Low,Warehouse A
+10123,188,Sports,301.44,5/2/2024,5,175,37,Other,Pattaya,736.3,Low,Warehouse A
+10124,380,Clothing,312.14,5/3/2024,3,174,47,Other,Hat Yai,3413.36,Low,Warehouse A
+10125,493,Beauty,310.34,5/4/2024,12,108,55,Other,Phuket,4307.14,Low,Warehouse A
+10126,41,Clothing,156.43,5/5/2024,1,70,20,Other,Bangkok,4817.39,Low,Warehouse C
+10127,157,Sports,468.25,5/6/2024,5,59,45,Female,Hat Yai,3178.9,Low,Warehouse C
+10128,15,Toys,474.2,5/7/2024,13,180,43,Other,Hat Yai,1002.1,Low,Warehouse A
+10129,301,Sports,316.4,5/8/2024,9,95,47,Male,Chiang Mai,617.69,Low,Warehouse A
+10130,65,Toys,393.88,5/9/2024,13,26,30,Female,Chiang Mai,4082.97,Low,Warehouse B
+10131,345,Electronics,310.01,5/10/2024,9,105,30,Female,Bangkok,2935.91,Medium,Warehouse B
+10132,327,Sports,247.36,5/11/2024,4,159,19,Other,Hat Yai,3129.6,Medium,Warehouse A
+10133,9,Electronics,333.8,5/12/2024,3,125,54,Female,Chiang Mai,3929.16,Medium,Warehouse A
+10134,344,Beauty,280.97,5/13/2024,1,97,55,Other,Phuket,3546.06,Low,Warehouse B
+10135,129,Clothing,302.76,5/14/2024,2,199,19,Male,Phuket,4188.85,Medium,Warehouse B
+10136,492,Toys,394.08,5/15/2024,8,112,53,Other,Hat Yai,375.45,Low,Warehouse A
+10137,136,Clothing,245.64,5/16/2024,1,145,43,Female,Chiang Mai,3762.85,Low,Warehouse C
+10138,472,Electronics,29.97,5/17/2024,8,177,28,Male,Bangkok,4269.18,Low,Warehouse C
+10139,63,Toys,90.36,5/18/2024,13,14,25,Other,Bangkok,1502.06,Medium,Warehouse A
+10140,139,Clothing,224.92,5/19/2024,7,13,61,Male,Bangkok,3238.19,Low,Warehouse A
+10141,499,Sports,365.17,5/20/2024,8,186,57,Male,Phuket,1639.39,Low,Warehouse B
+10142,81,Home & Kitchen,300.71,5/21/2024,12,159,60,Female,Chiang Mai,4794.06,Low,Warehouse B
+10143,392,Electronics,328.64,5/22/2024,6,38,39,Male,Chiang Mai,263.78,Medium,Warehouse C
+10144,163,Clothing,244.85,5/23/2024,12,133,37,Female,Phuket,2940.98,Medium,Warehouse A
+10145,419,Electronics,311.71,5/24/2024,14,164,25,Male,Bangkok,915.87,Low,Warehouse B
+10146,289,Electronics,171.22,5/25/2024,9,93,46,Other,Bangkok,3589.88,Low,Warehouse C
+10147,379,Toys,240.39,5/26/2024,3,97,57,Male,Hat Yai,961.86,Low,Warehouse C
+10148,261,Toys,374.7,5/27/2024,10,75,43,Other,Pattaya,1253.38,Medium,Warehouse C
+10149,490,Home & Kitchen,437.2,5/28/2024,4,71,47,Other,Chiang Mai,2522.42,Low,Warehouse B
+10150,231,Sports,222.49,5/29/2024,13,152,34,Male,Chiang Mai,4582.69,Medium,Warehouse B
+10151,41,Electronics,31.39,5/30/2024,6,121,37,Other,Chiang Mai,1137.4,Low,Warehouse A
+10152,28,Clothing,89.22,5/31/2024,8,98,33,Male,Pattaya,806.78,Medium,Warehouse A
+10153,135,Beauty,20.22,6/1/2024,5,167,63,Male,Hat Yai,3818.99,Low,Warehouse C
+10154,201,Electronics,330.1,6/2/2024,3,103,60,Other,Pattaya,2553.04,Low,Warehouse C
+10155,328,Electronics,172.83,6/3/2024,6,117,24,Other,Bangkok,4567.75,Low,Warehouse B
+10156,268,Home & Kitchen,275.81,6/4/2024,4,107,33,Female,Bangkok,818.41,Low,Warehouse B
+10157,418,Sports,251.71,6/5/2024,9,95,62,Other,Chiang Mai,3265.05,Low,Warehouse A
+10158,33,Beauty,49.95,6/6/2024,13,94,64,Female,Phuket,1241.11,Medium,Warehouse A
+10159,48,Toys,207.6,6/7/2024,3,21,44,Other,Chiang Mai,868.13,Low,Warehouse A
+10160,407,Toys,118.07,6/8/2024,4,22,40,Male,Phuket,3448.8,Medium,Warehouse B
+10161,62,Clothing,215.02,6/9/2024,7,177,41,Other,Pattaya,3009.05,Medium,Warehouse C
+10162,216,Beauty,109.75,6/10/2024,7,120,26,Male,Bangkok,3798.65,Low,Warehouse A
+10163,293,Toys,421.82,6/11/2024,12,97,52,Male,Phuket,1616.37,Medium,Warehouse A
+10164,99,Clothing,95.35,6/12/2024,12,185,37,Male,Pattaya,2295.06,Medium,Warehouse B
+10165,172,Sports,480.78,6/13/2024,4,95,54,Female,Bangkok,2086.81,Low,Warehouse A
+10166,360,Clothing,213.79,6/14/2024,6,86,59,Other,Phuket,4922.04,Medium,Warehouse C
+10167,214,Toys,424.66,6/15/2024,12,72,34,Male,Chiang Mai,1532.02,Low,Warehouse B
+10168,475,Home & Kitchen,318.09,6/16/2024,13,197,64,Male,Chiang Mai,1544.6,Low,Warehouse A
+10169,35,Home & Kitchen,370.32,6/17/2024,3,118,48,Female,Chiang Mai,1837.29,Medium,Warehouse A
+10170,449,Home & Kitchen,386.18,6/18/2024,6,5,25,Other,Pattaya,2866.51,Low,Warehouse B
+10171,227,Toys,257.37,6/19/2024,12,62,32,Other,Chiang Mai,1336.38,Low,Warehouse B
+10172,101,Home & Kitchen,276.22,6/20/2024,2,158,48,Female,Hat Yai,4584.92,Low,Warehouse A
+10173,431,Beauty,261.86,6/21/2024,8,113,47,Female,Bangkok,1401.86,Medium,Warehouse C
+10174,462,Sports,298.15,6/22/2024,2,152,63,Other,Pattaya,4489.5,High,Warehouse B
+10175,131,Clothing,24.4,6/23/2024,11,120,37,Female,Chiang Mai,607.03,Low,Warehouse C
+10176,257,Clothing,203.8,6/24/2024,7,91,56,Other,Bangkok,3317.16,Medium,Warehouse A
+10177,5,Toys,307.03,6/25/2024,9,14,29,Other,Phuket,4544.23,High,Warehouse C
+10178,218,Home & Kitchen,302.88,6/26/2024,1,63,34,Male,Chiang Mai,926.87,Low,Warehouse A
+10179,255,Home & Kitchen,398.55,6/27/2024,8,45,59,Male,Bangkok,4844.8,Low,Warehouse A
+10180,398,Electronics,330.95,6/28/2024,7,109,47,Other,Hat Yai,2319.13,Medium,Warehouse A
+10181,359,Sports,496.15,6/29/2024,6,137,46,Other,Phuket,4734,Medium,Warehouse A
+10182,283,Beauty,149.09,6/30/2024,6,126,36,Other,Hat Yai,3416.42,Medium,Warehouse C
+10183,393,Clothing,185.98,7/1/2024,6,197,63,Other,Bangkok,1577.78,Low,Warehouse A
+10184,207,Electronics,198.09,7/2/2024,9,149,28,Other,Hat Yai,1022.68,Low,Warehouse A
+10185,15,Electronics,238.25,7/3/2024,2,26,51,Other,Bangkok,1588.3,Low,Warehouse C
+10186,346,Toys,419.64,7/4/2024,1,102,24,Female,Bangkok,555.79,Low,Warehouse B
+10187,42,Clothing,125.54,7/5/2024,13,173,61,Other,Hat Yai,804.95,Low,Warehouse C
+10188,380,Toys,390.24,7/6/2024,12,72,51,Female,Bangkok,612.84,Medium,Warehouse C
+10189,461,Beauty,208.6,7/7/2024,6,143,37,Female,Chiang Mai,2172.42,Low,Warehouse C
+10190,179,Electronics,304.91,7/8/2024,10,60,55,Other,Bangkok,3998.33,Medium,Warehouse A
+10191,63,Electronics,319.94,7/9/2024,11,183,41,Other,Pattaya,792.78,Low,Warehouse A
+10192,352,Sports,192.7,7/10/2024,8,153,27,Female,Bangkok,738.57,Low,Warehouse A
+10193,231,Beauty,261.18,7/11/2024,3,103,49,Female,Pattaya,3252.8,Low,Warehouse B
+10194,241,Electronics,212.39,7/12/2024,12,80,32,Other,Bangkok,1066.2,Low,Warehouse A
+10195,52,Beauty,43.88,7/13/2024,10,30,54,Other,Bangkok,578.29,Low,Warehouse B
+10196,96,Clothing,224.21,7/14/2024,1,119,37,Female,Hat Yai,917.56,High,Warehouse A
+10197,388,Home & Kitchen,57.72,7/15/2024,9,151,20,Female,Chiang Mai,4626.28,Medium,Warehouse C
+10198,222,Electronics,208.46,7/16/2024,13,113,54,Female,Chiang Mai,4125.21,Low,Warehouse A
+10199,485,Sports,300.53,7/17/2024,13,192,57,Male,Phuket,1834.92,Low,Warehouse B
+10200,407,Clothing,293.91,7/18/2024,1,51,25,Female,Hat Yai,3313.52,High,Warehouse B
+10201,231,Beauty,334.68,7/19/2024,3,75,57,Male,Hat Yai,2732.65,Low,Warehouse A
+10202,237,Toys,56.68,7/20/2024,8,158,61,Other,Chiang Mai,3417.91,Low,Warehouse C
+10203,143,Clothing,329.54,7/21/2024,14,44,40,Other,Hat Yai,3445.09,Low,Warehouse A
+10204,171,Electronics,162.95,7/22/2024,3,137,57,Female,Chiang Mai,3180.8,High,Warehouse A
+10205,29,Beauty,205.53,7/23/2024,13,153,28,Other,Hat Yai,1403.9,Low,Warehouse A
+10206,36,Home & Kitchen,430.41,7/24/2024,4,136,63,Other,Bangkok,291.13,Low,Warehouse C
+10207,13,Clothing,14.42,7/25/2024,8,27,25,Other,Chiang Mai,2332.28,High,Warehouse B
+10208,160,Electronics,298.32,7/26/2024,1,110,46,Other,Chiang Mai,4465.77,Low,Warehouse C
+10209,327,Sports,303.37,7/27/2024,13,88,47,Male,Pattaya,2890.54,Low,Warehouse B
+10210,187,Toys,204.36,7/28/2024,13,147,27,Male,Hat Yai,4178.72,Low,Warehouse B
+10211,243,Beauty,126.14,7/29/2024,6,120,56,Female,Hat Yai,4958.96,Medium,Warehouse B
+10212,86,Clothing,124.99,7/30/2024,1,113,45,Female,Chiang Mai,901.72,Low,Warehouse C
+10213,284,Clothing,443.02,7/31/2024,14,140,53,Female,Bangkok,3489.71,High,Warehouse A
+10214,66,Home & Kitchen,226.59,8/1/2024,1,45,30,Other,Bangkok,3404.04,Medium,Warehouse A
+10215,170,Home & Kitchen,172.14,8/2/2024,14,116,49,Other,Bangkok,4901.78,Low,Warehouse A
+10216,45,Sports,229.9,8/3/2024,8,151,53,Male,Hat Yai,4929.44,High,Warehouse A
+10217,62,Toys,338,8/4/2024,11,116,54,Male,Pattaya,3464.73,Low,Warehouse A
+10218,441,Sports,81.42,8/5/2024,4,107,43,Female,Chiang Mai,1293.71,Low,Warehouse C
+10219,134,Electronics,230.22,8/6/2024,12,50,39,Male,Phuket,4012.92,Low,Warehouse C
+10220,284,Electronics,298.06,8/7/2024,1,160,21,Male,Pattaya,624.44,Low,Warehouse C
+10221,28,Sports,474.81,8/8/2024,10,72,48,Male,Phuket,3925.43,Low,Warehouse C
+10222,108,Toys,133.74,8/9/2024,7,126,35,Male,Pattaya,4559.96,Low,Warehouse C
+10223,44,Sports,186.03,8/10/2024,5,19,55,Male,Bangkok,1975.88,Low,Warehouse C
+10224,340,Toys,195.89,8/11/2024,5,169,41,Female,Hat Yai,3190.11,Medium,Warehouse C
+10225,286,Toys,306.71,8/12/2024,1,133,40,Female,Phuket,2207.7,Low,Warehouse A
+10226,446,Beauty,184.8,8/13/2024,14,199,39,Male,Pattaya,2245.05,High,Warehouse B
+10227,331,Toys,271.42,8/14/2024,10,115,19,Female,Hat Yai,1620.82,Low,Warehouse C
+10228,128,Home & Kitchen,393.08,8/15/2024,11,28,48,Other,Phuket,3834.44,Low,Warehouse B
+10229,348,Toys,355.64,8/16/2024,6,31,28,Male,Chiang Mai,4687.27,Low,Warehouse C
+10230,473,Toys,228.72,8/17/2024,14,44,45,Other,Pattaya,4709.68,Low,Warehouse C
+10231,231,Toys,433.47,8/18/2024,9,195,63,Female,Chiang Mai,956.43,Low,Warehouse A
+10232,190,Electronics,283.49,8/19/2024,9,193,49,Female,Bangkok,4386.24,Medium,Warehouse B
+10233,225,Home & Kitchen,274.55,8/20/2024,8,168,22,Other,Chiang Mai,3713.41,High,Warehouse A
+10234,385,Home & Kitchen,26.75,8/21/2024,5,28,55,Female,Chiang Mai,1338.9,High,Warehouse A
+10235,377,Sports,493.48,8/22/2024,1,28,27,Male,Pattaya,429.69,Low,Warehouse B
+10236,283,Beauty,70.26,8/23/2024,9,8,57,Other,Bangkok,1413.19,Medium,Warehouse A
+10237,446,Toys,123.25,8/24/2024,1,71,63,Male,Chiang Mai,4569.82,Low,Warehouse C
+10238,121,Clothing,35.33,8/25/2024,8,38,41,Other,Hat Yai,3202.58,Low,Warehouse C
+10239,116,Beauty,323.6,8/26/2024,5,189,52,Female,Phuket,3633.17,Medium,Warehouse C
+10240,461,Beauty,120.1,8/27/2024,3,181,61,Other,Chiang Mai,1360.05,Medium,Warehouse C
+10241,233,Home & Kitchen,98.21,8/28/2024,11,185,40,Other,Bangkok,3625,Low,Warehouse C
+10242,259,Beauty,53.39,8/29/2024,7,120,34,Male,Chiang Mai,237.8,Low,Warehouse A
+10243,359,Toys,60.62,8/30/2024,7,27,18,Female,Phuket,1939.07,Low,Warehouse A
+10244,198,Toys,296.49,8/31/2024,9,113,48,Male,Bangkok,3171.09,Medium,Warehouse C
+10245,456,Electronics,347.22,9/1/2024,7,73,48,Female,Pattaya,815.87,Low,Warehouse C
+10246,411,Toys,204.72,9/2/2024,13,99,59,Male,Bangkok,4132.72,High,Warehouse A
+10247,137,Toys,245.15,9/3/2024,11,185,59,Other,Pattaya,1251.65,Low,Warehouse B
+10248,318,Home & Kitchen,346.12,9/4/2024,14,66,51,Male,Bangkok,3296.18,Low,Warehouse A
+10249,165,Toys,18.52,9/5/2024,3,173,26,Female,Phuket,2085.47,Low,Warehouse A
+10250,225,Electronics,168.33,9/6/2024,11,61,39,Female,Phuket,3020.61,Low,Warehouse A
+10251,307,Clothing,486.82,9/7/2024,13,192,30,Other,Bangkok,626.51,Low,Warehouse A
+10252,234,Home & Kitchen,294.25,9/8/2024,14,58,42,Female,Chiang Mai,182.87,Medium,Warehouse A
+10253,172,Clothing,134.57,9/9/2024,13,74,35,Male,Phuket,4556.87,Medium,Warehouse B
+10254,152,Home & Kitchen,265.65,9/10/2024,1,105,29,Other,Pattaya,1421.19,High,Warehouse C
+10255,463,Sports,177.9,9/11/2024,8,61,57,Female,Pattaya,4116.42,Medium,Warehouse C
+10256,315,Beauty,270.8,9/12/2024,12,142,34,Female,Hat Yai,4996.82,Medium,Warehouse B
+10257,374,Sports,71.61,9/13/2024,3,172,32,Male,Pattaya,1136.01,Low,Warehouse C
+10258,160,Toys,75.03,9/14/2024,12,139,59,Male,Hat Yai,1399.34,Medium,Warehouse C
+10259,96,Clothing,80.34,9/15/2024,8,107,32,Other,Bangkok,3348.01,Low,Warehouse C
+10260,472,Toys,470.51,9/16/2024,8,170,32,Female,Bangkok,4830.7,Low,Warehouse B
+10261,233,Beauty,369.12,9/17/2024,13,89,56,Male,Bangkok,4587.49,Low,Warehouse B
+10262,180,Home & Kitchen,89.57,9/18/2024,5,65,30,Other,Chiang Mai,2564.09,Low,Warehouse C
+10263,113,Beauty,102.29,9/19/2024,13,7,34,Female,Chiang Mai,3996.04,Low,Warehouse C
+10264,318,Electronics,368.11,9/20/2024,12,132,49,Female,Hat Yai,765.15,High,Warehouse C
+10265,497,Beauty,86.52,9/21/2024,13,183,26,Other,Pattaya,4889.45,Low,Warehouse A
+10266,442,Electronics,124.94,9/22/2024,1,90,57,Other,Pattaya,4825.33,Low,Warehouse A
+10267,52,Beauty,482.04,9/23/2024,13,51,37,Male,Bangkok,902.27,Low,Warehouse A
+10268,268,Electronics,135.1,9/24/2024,10,80,43,Female,Phuket,1567.17,Low,Warehouse B
+10269,295,Clothing,334.2,9/25/2024,7,42,44,Female,Chiang Mai,590.76,Low,Warehouse C
+10270,386,Toys,489.53,9/26/2024,12,168,38,Female,Chiang Mai,1431.42,Low,Warehouse B
+10271,387,Toys,193.41,9/27/2024,10,173,35,Other,Bangkok,4098.18,Low,Warehouse B
+10272,113,Sports,18.58,9/28/2024,5,145,30,Male,Chiang Mai,1953.75,Low,Warehouse B
+10273,101,Toys,129.63,9/29/2024,8,91,33,Female,Bangkok,533.15,Medium,Warehouse C
+10274,113,Home & Kitchen,417.13,9/30/2024,9,62,26,Other,Hat Yai,1776.91,Medium,Warehouse A
+10275,440,Beauty,433.66,10/1/2024,11,54,29,Female,Pattaya,4908.78,Low,Warehouse C
+10276,81,Sports,386.57,10/2/2024,14,34,61,Male,Phuket,3185.45,Low,Warehouse C
+10277,187,Home & Kitchen,65.42,10/3/2024,7,194,55,Female,Pattaya,2139.19,Low,Warehouse B
+10278,113,Home & Kitchen,399.8,10/4/2024,14,105,36,Male,Pattaya,916.04,Medium,Warehouse B
+10279,2,Electronics,460.15,10/5/2024,13,29,24,Male,Hat Yai,4932.27,Low,Warehouse B
+10280,130,Toys,304.3,10/6/2024,7,116,52,Female,Chiang Mai,4122.16,Low,Warehouse A
+10281,220,Clothing,471.03,10/7/2024,1,159,35,Female,Phuket,1479.24,Medium,Warehouse A
+10282,54,Clothing,415.15,10/8/2024,4,183,33,Male,Chiang Mai,443.34,Low,Warehouse A
+10283,343,Sports,336.82,10/9/2024,2,189,56,Other,Pattaya,377.47,Low,Warehouse C
+10284,485,Clothing,292.82,10/10/2024,2,130,21,Male,Bangkok,689.85,Low,Warehouse B
+10285,224,Beauty,180.8,10/11/2024,2,127,42,Female,Pattaya,2945.77,High,Warehouse C
+10286,225,Clothing,88.05,10/12/2024,4,51,49,Female,Chiang Mai,4650.94,Medium,Warehouse A
+10287,385,Sports,306.43,10/13/2024,14,122,57,Other,Pattaya,2534.04,Medium,Warehouse B
+10288,403,Clothing,165.87,10/14/2024,1,43,30,Male,Bangkok,4230.43,Low,Warehouse A
+10289,126,Beauty,434.55,10/15/2024,4,20,62,Male,Hat Yai,2284.84,Low,Warehouse B
+10290,130,Electronics,496.74,10/16/2024,2,26,34,Male,Chiang Mai,3572.06,High,Warehouse B
+10291,53,Sports,378.69,10/17/2024,5,58,54,Female,Pattaya,3686.18,High,Warehouse C
+10292,172,Electronics,54.34,10/18/2024,3,153,23,Male,Chiang Mai,952.42,Low,Warehouse C
+10293,218,Electronics,151.46,10/19/2024,12,20,36,Other,Hat Yai,1869.96,Medium,Warehouse A
+10294,160,Electronics,63.46,10/20/2024,8,63,30,Female,Pattaya,3222.78,Low,Warehouse C
+10295,198,Home & Kitchen,328.75,10/21/2024,4,35,43,Female,Pattaya,446.41,Low,Warehouse C
+10296,416,Toys,384.94,10/22/2024,1,174,31,Male,Chiang Mai,1871.55,Medium,Warehouse C
+10297,247,Home & Kitchen,463.58,10/23/2024,1,36,48,Other,Chiang Mai,2720.52,Low,Warehouse B
+10298,324,Toys,224.7,10/24/2024,12,191,21,Female,Bangkok,4981.5,High,Warehouse C
+10299,439,Electronics,451.67,10/25/2024,10,166,56,Female,Hat Yai,2425.21,Low,Warehouse A
+10300,203,Sports,440.17,10/26/2024,3,13,25,Male,Bangkok,4098.68,Low,Warehouse B
+10301,184,Toys,165.43,10/27/2024,9,143,42,Male,Pattaya,2217.13,High,Warehouse B
+10302,123,Beauty,435.76,10/28/2024,7,14,30,Other,Chiang Mai,4002.31,High,Warehouse C
+10303,401,Beauty,194.08,10/29/2024,2,21,49,Male,Pattaya,3017.53,Low,Warehouse B
+10304,255,Clothing,155.47,10/30/2024,13,72,55,Other,Pattaya,4444.32,Low,Warehouse A
+10305,294,Toys,328.05,10/31/2024,9,52,55,Female,Phuket,2113.62,Medium,Warehouse A
+10306,280,Sports,170.91,11/1/2024,10,184,45,Other,Phuket,3061.09,Low,Warehouse B
+10307,325,Home & Kitchen,318.8,11/2/2024,2,115,47,Other,Pattaya,3187.09,High,Warehouse C
+10308,372,Electronics,308.82,11/3/2024,3,157,20,Other,Chiang Mai,2145.18,High,Warehouse C
+10309,98,Clothing,286.09,11/4/2024,11,127,45,Female,Pattaya,807.13,Low,Warehouse B
+10310,198,Beauty,196.41,11/5/2024,13,153,20,Male,Phuket,558.44,Low,Warehouse A
+10311,470,Home & Kitchen,278.76,11/6/2024,10,105,62,Female,Chiang Mai,181.69,Low,Warehouse B
+10312,395,Home & Kitchen,302.28,11/7/2024,14,106,51,Male,Pattaya,4380.32,High,Warehouse C
+10313,240,Electronics,277.39,11/8/2024,2,69,33,Other,Hat Yai,1258.73,Low,Warehouse C
+10314,144,Toys,227.77,11/9/2024,3,195,39,Other,Hat Yai,1136.38,Low,Warehouse B
+10315,97,Beauty,17.19,11/10/2024,6,55,49,Other,Pattaya,3706.57,Low,Warehouse A
+10316,201,Sports,297.66,11/11/2024,9,40,55,Other,Chiang Mai,1668.08,Low,Warehouse B
+10317,124,Home & Kitchen,92.54,11/12/2024,9,85,25,Other,Pattaya,2579.62,Low,Warehouse A
+10318,187,Electronics,324.86,11/13/2024,7,131,25,Male,Pattaya,896.3,Low,Warehouse A
+10319,326,Sports,382.08,11/14/2024,12,92,23,Male,Phuket,4802.75,High,Warehouse B
+10320,464,Toys,255.22,11/15/2024,3,198,31,Other,Hat Yai,4272.75,High,Warehouse B
+10321,349,Beauty,275.76,11/16/2024,4,108,49,Female,Phuket,4332.57,Medium,Warehouse A
+10322,259,Toys,476.22,11/17/2024,6,19,52,Female,Phuket,2093.19,Low,Warehouse A
+10323,148,Home & Kitchen,425.11,11/18/2024,11,100,27,Other,Pattaya,3835.57,Low,Warehouse A
+10324,252,Sports,457.98,11/19/2024,5,171,20,Male,Phuket,804.99,Medium,Warehouse A
+10325,443,Sports,408.75,11/20/2024,2,127,29,Female,Hat Yai,142.23,Low,Warehouse C
+10326,420,Sports,63.37,11/21/2024,13,5,48,Female,Phuket,197.87,High,Warehouse B
+10327,403,Home & Kitchen,83.01,11/22/2024,6,155,46,Female,Hat Yai,2974.35,Medium,Warehouse A
+10328,346,Home & Kitchen,268.05,11/23/2024,3,126,22,Other,Phuket,2331.44,Low,Warehouse B
+10329,451,Toys,130.57,11/24/2024,14,171,42,Female,Hat Yai,2638.28,High,Warehouse A
+10330,147,Clothing,243.58,11/25/2024,8,130,58,Female,Phuket,136.57,High,Warehouse B
+10331,148,Toys,203.24,11/26/2024,2,61,48,Female,Phuket,2171.16,Low,Warehouse B
+10332,352,Beauty,279.21,11/27/2024,1,85,38,Female,Chiang Mai,3618.53,Low,Warehouse A
+10333,199,Electronics,375.97,11/28/2024,9,166,37,Male,Hat Yai,2269.2,Low,Warehouse A
+10334,308,Sports,360.59,11/29/2024,14,173,56,Other,Hat Yai,3687.87,Low,Warehouse B
+10335,489,Clothing,265.4,11/30/2024,12,77,39,Other,Hat Yai,1241.79,Low,Warehouse B
+10336,417,Electronics,412.97,12/1/2024,3,145,21,Male,Bangkok,4084.4,Low,Warehouse B
+10337,424,Clothing,221.12,12/2/2024,11,74,30,Male,Phuket,2983.31,High,Warehouse C
+10338,128,Toys,449.39,12/3/2024,1,10,62,Other,Hat Yai,1132.74,Low,Warehouse A
+10339,39,Home & Kitchen,44.93,12/4/2024,7,88,59,Female,Bangkok,1259.93,Low,Warehouse C
+10340,338,Sports,477.78,12/5/2024,13,56,37,Female,Chiang Mai,3177.35,Medium,Warehouse C
+10341,360,Toys,330.8,12/6/2024,10,7,30,Other,Hat Yai,4166.7,Low,Warehouse A
+10342,129,Electronics,196.24,12/7/2024,5,85,34,Female,Hat Yai,2136.58,Medium,Warehouse A
+10343,267,Electronics,106.61,12/8/2024,5,67,53,Male,Bangkok,1365.67,Low,Warehouse C
+10344,476,Electronics,244.8,12/9/2024,14,53,50,Female,Phuket,4348.36,Low,Warehouse A
+10345,441,Electronics,105.33,12/10/2024,1,80,18,Female,Chiang Mai,3379.41,Low,Warehouse B
+10346,473,Electronics,91.5,12/11/2024,9,116,32,Female,Hat Yai,2295.62,Medium,Warehouse B
+10347,434,Clothing,312.5,12/12/2024,7,179,30,Other,Phuket,2490.71,Low,Warehouse C
+10348,151,Toys,266.31,12/13/2024,8,113,34,Male,Chiang Mai,1100.86,Medium,Warehouse C
+10349,415,Sports,338.35,12/14/2024,9,187,41,Female,Pattaya,3171.33,Low,Warehouse A
+10350,478,Home & Kitchen,465.51,12/15/2024,6,196,25,Other,Pattaya,1857.84,Low,Warehouse A
+10351,298,Home & Kitchen,270.81,12/16/2024,12,69,44,Female,Chiang Mai,4978.66,Low,Warehouse C
+10352,99,Toys,294.66,12/17/2024,5,85,62,Male,Bangkok,2452.9,High,Warehouse C
+10353,263,Toys,53.92,12/18/2024,6,199,40,Female,Chiang Mai,2480.84,High,Warehouse B
+10354,252,Home & Kitchen,361.64,12/19/2024,11,19,63,Male,Chiang Mai,2872.67,Low,Warehouse B
+10355,144,Home & Kitchen,205.95,12/20/2024,2,104,25,Female,Bangkok,4592.1,Low,Warehouse A
+10356,346,Clothing,488.6,12/21/2024,4,36,25,Male,Bangkok,4024.01,Low,Warehouse B
+10357,112,Beauty,413.36,12/22/2024,3,100,43,Female,Phuket,2310.54,Low,Warehouse A
+10358,60,Sports,266.02,12/23/2024,13,132,64,Male,Phuket,3621.63,Low,Warehouse A
+10359,369,Electronics,70.38,12/24/2024,7,150,30,Female,Bangkok,2972.55,High,Warehouse A
+10360,2,Beauty,431.11,12/25/2024,9,117,56,Female,Pattaya,2512.6,High,Warehouse B
+10361,385,Toys,401.89,12/26/2024,5,87,54,Other,Pattaya,1042.35,Low,Warehouse C
+10362,304,Home & Kitchen,100.45,12/27/2024,6,47,45,Other,Chiang Mai,2373.29,Low,Warehouse C
+10363,254,Beauty,154.69,12/28/2024,10,120,42,Male,Hat Yai,1304.51,Medium,Warehouse B
+10364,140,Sports,398.77,12/29/2024,14,167,33,Female,Chiang Mai,4582.73,Medium,Warehouse C
+10365,453,Toys,100.76,12/30/2024,12,82,19,Male,Chiang Mai,1743.49,Low,Warehouse A
+10366,37,Electronics,459.7,12/31/2024,12,62,35,Other,Hat Yai,4766.09,Low,Warehouse C
+10367,160,Electronics,218.02,1/1/2025,2,37,34,Male,Bangkok,2711.97,Low,Warehouse B
+10368,9,Sports,52.65,1/2/2025,3,18,47,Male,Pattaya,3194.57,Low,Warehouse C
+10369,233,Sports,409.72,1/3/2025,3,166,56,Other,Chiang Mai,2760.41,Low,Warehouse A
+10370,99,Home & Kitchen,193.02,1/4/2025,12,193,30,Female,Hat Yai,733.97,Low,Warehouse A
+10371,147,Electronics,267.98,1/5/2025,12,136,49,Male,Phuket,1941.52,Medium,Warehouse B
+10372,304,Toys,65.03,1/6/2025,9,63,46,Other,Chiang Mai,585.82,Low,Warehouse B
+10373,208,Beauty,11.27,1/7/2025,7,161,63,Female,Pattaya,3152.47,Low,Warehouse B
+10374,131,Toys,322.61,1/8/2025,8,87,47,Other,Bangkok,2289.68,Low,Warehouse A
+10375,404,Clothing,262.44,1/9/2025,11,138,35,Male,Chiang Mai,3912.13,Medium,Warehouse C
+10376,152,Clothing,300.83,1/10/2025,10,125,30,Female,Chiang Mai,1180.31,Medium,Warehouse C
+10377,54,Sports,398.93,1/11/2025,11,181,60,Female,Hat Yai,906.37,Low,Warehouse B
+10378,120,Home & Kitchen,326.84,1/12/2025,9,172,38,Other,Phuket,2091.03,Low,Warehouse C
+10379,161,Clothing,95.64,1/13/2025,6,87,47,Other,Phuket,4640.27,High,Warehouse C
+10380,408,Electronics,186.78,1/14/2025,4,197,38,Other,Bangkok,3581.07,Low,Warehouse B
+10381,116,Toys,453.89,1/15/2025,12,31,34,Female,Pattaya,2152.73,Low,Warehouse B
+10382,75,Toys,387.27,1/16/2025,1,84,57,Female,Bangkok,2634.63,Low,Warehouse A
+10383,113,Sports,282.75,1/17/2025,8,138,36,Male,Chiang Mai,512.64,Low,Warehouse A
+10384,456,Beauty,135.27,1/18/2025,7,17,32,Female,Chiang Mai,4924.42,Low,Warehouse A
+10385,420,Sports,158.01,1/19/2025,2,68,26,Male,Phuket,3365.4,High,Warehouse A
+10386,422,Beauty,368.66,1/20/2025,8,194,27,Other,Pattaya,1498.48,Medium,Warehouse C
+10387,104,Sports,427.08,1/21/2025,12,151,61,Other,Hat Yai,2970.46,Low,Warehouse C
+10388,340,Sports,339,1/22/2025,5,84,48,Female,Pattaya,636.46,High,Warehouse A
+10389,254,Sports,406.67,1/23/2025,7,127,40,Other,Chiang Mai,4832.6,Low,Warehouse A
+10390,227,Beauty,385.66,1/24/2025,4,47,47,Other,Hat Yai,956.45,Low,Warehouse B
+10391,112,Beauty,83.35,1/25/2025,5,93,50,Female,Pattaya,3275.35,Low,Warehouse C
+10392,473,Sports,217.73,1/26/2025,8,152,26,Male,Pattaya,1302.73,Medium,Warehouse C
+10393,99,Clothing,84.96,1/27/2025,1,99,64,Female,Hat Yai,3616.05,Low,Warehouse A
+10394,153,Home & Kitchen,125.27,1/28/2025,1,176,18,Male,Chiang Mai,3906.42,Low,Warehouse C
+10395,349,Home & Kitchen,435.94,1/29/2025,4,155,61,Female,Pattaya,3399.76,Medium,Warehouse B
+10396,402,Home & Kitchen,241.72,1/30/2025,3,6,52,Female,Hat Yai,3111.05,Medium,Warehouse B
+10397,384,Beauty,272.33,1/31/2025,13,124,28,Other,Chiang Mai,4473.1,Medium,Warehouse C
+10398,366,Beauty,97.44,2/1/2025,10,26,51,Female,Hat Yai,485.27,Low,Warehouse A
+10399,338,Clothing,163.01,2/2/2025,12,119,33,Female,Hat Yai,1721.48,Low,Warehouse C
+10400,194,Home & Kitchen,122.82,2/3/2025,2,61,26,Male,Pattaya,1316.61,Low,Warehouse B
+10401,310,Home & Kitchen,111.03,2/4/2025,12,76,49,Other,Chiang Mai,4941.27,Low,Warehouse A
+10402,163,Sports,322.6,2/5/2025,3,11,32,Male,Pattaya,2008.01,High,Warehouse C
+10403,208,Beauty,135.87,2/6/2025,11,188,29,Male,Bangkok,3689.8,Low,Warehouse A
+10404,445,Home & Kitchen,319.69,2/7/2025,11,123,50,Other,Bangkok,3455.15,Low,Warehouse A
+10405,169,Toys,38.64,2/8/2025,14,199,62,Other,Chiang Mai,1139.2,Medium,Warehouse B
+10406,484,Clothing,79.47,2/9/2025,11,118,31,Other,Hat Yai,1271.09,Low,Warehouse A
+10407,161,Toys,144.52,2/10/2025,1,20,25,Female,Pattaya,1478.29,Low,Warehouse C
+10408,68,Toys,302.55,2/11/2025,1,87,25,Other,Pattaya,2114.52,Medium,Warehouse A
+10409,289,Clothing,341.16,2/12/2025,6,183,44,Other,Chiang Mai,1248.19,Medium,Warehouse A
+10410,398,Toys,226.93,2/13/2025,5,76,29,Other,Chiang Mai,196.29,Medium,Warehouse C
+10411,277,Home & Kitchen,228.44,2/14/2025,8,128,18,Male,Bangkok,4409.03,Low,Warehouse B
+10412,304,Beauty,365.01,2/15/2025,2,117,60,Male,Phuket,4831.49,Low,Warehouse B
+10413,404,Clothing,17.75,2/16/2025,4,16,57,Female,Chiang Mai,1773.69,Medium,Warehouse C
+10414,384,Sports,177.13,2/17/2025,8,130,59,Male,Phuket,1758.68,Low,Warehouse C
+10415,392,Toys,411.17,2/18/2025,12,57,28,Female,Chiang Mai,134.75,Low,Warehouse B
+10416,135,Clothing,305.58,2/19/2025,6,79,56,Male,Hat Yai,3433.23,Medium,Warehouse A
+10417,195,Electronics,175.24,2/20/2025,1,137,60,Other,Hat Yai,4144.66,Low,Warehouse C
+10418,401,Electronics,453.71,2/21/2025,4,31,48,Male,Bangkok,818.38,Medium,Warehouse A
+10419,128,Beauty,388.59,2/22/2025,1,144,34,Female,Bangkok,882.37,Low,Warehouse C
+10420,33,Home & Kitchen,139.8,2/23/2025,13,149,50,Male,Phuket,3971.41,Low,Warehouse B
+10421,176,Beauty,326.19,2/24/2025,2,138,49,Other,Chiang Mai,3119.82,Low,Warehouse A
+10422,460,Beauty,301.92,2/25/2025,5,101,46,Female,Pattaya,319.82,Medium,Warehouse A
+10423,443,Beauty,206.58,2/26/2025,14,9,38,Other,Bangkok,3150.48,Low,Warehouse C
+10424,371,Beauty,189.81,2/27/2025,8,61,38,Other,Pattaya,1613.7,Low,Warehouse A
+10425,470,Sports,178.34,2/28/2025,8,160,57,Female,Pattaya,1906.75,Medium,Warehouse C
+10426,375,Sports,312.41,3/1/2025,11,82,40,Other,Chiang Mai,3871.68,Medium,Warehouse B
+10427,22,Clothing,226.78,3/2/2025,3,73,23,Other,Phuket,4073.58,High,Warehouse A
+10428,238,Electronics,417.61,3/3/2025,11,122,39,Male,Chiang Mai,2061.75,Low,Warehouse C
+10429,158,Beauty,338.11,3/4/2025,13,124,55,Other,Bangkok,4741.05,Low,Warehouse A
+10430,38,Clothing,44.27,3/5/2025,4,63,54,Other,Pattaya,2091.67,High,Warehouse C
+10431,230,Electronics,323.68,3/6/2025,10,37,62,Other,Chiang Mai,3882,Medium,Warehouse C
+10432,365,Toys,142.86,3/7/2025,11,66,25,Other,Chiang Mai,2471,Low,Warehouse C
+10433,51,Home & Kitchen,300.48,3/8/2025,14,54,58,Female,Chiang Mai,4497.91,Low,Warehouse B
+10434,438,Sports,343.26,3/9/2025,6,116,52,Male,Bangkok,4548.03,Medium,Warehouse A
+10435,264,Toys,123.11,3/10/2025,11,23,28,Other,Phuket,528.34,Low,Warehouse B
+10436,283,Electronics,233.86,3/11/2025,11,127,41,Other,Chiang Mai,4688.82,Medium,Warehouse C
+10437,27,Toys,103.26,3/12/2025,10,198,38,Female,Bangkok,4145.12,Low,Warehouse C
+10438,226,Home & Kitchen,35.65,3/13/2025,3,51,19,Other,Pattaya,3977.42,Low,Warehouse B
+10439,277,Electronics,195.45,3/14/2025,2,171,57,Female,Hat Yai,1084.47,Medium,Warehouse B
+10440,286,Toys,187.84,3/15/2025,6,37,36,Male,Bangkok,4045.08,Low,Warehouse A
+10441,97,Sports,497.79,3/16/2025,11,145,56,Male,Hat Yai,4265.65,Low,Warehouse C
+10442,284,Sports,228.71,3/17/2025,13,88,45,Other,Chiang Mai,1516.84,Low,Warehouse B
+10443,367,Clothing,173.45,3/18/2025,5,186,34,Other,Chiang Mai,4766.07,Low,Warehouse C
+10444,448,Toys,294.43,3/19/2025,14,139,23,Other,Bangkok,344.31,Medium,Warehouse C
+10445,481,Beauty,53.5,3/20/2025,10,83,36,Female,Hat Yai,834.56,Medium,Warehouse A
+10446,453,Toys,481.22,3/21/2025,5,18,55,Other,Chiang Mai,2734.15,Medium,Warehouse A
+10447,317,Electronics,321.13,3/22/2025,10,151,45,Other,Pattaya,2921.38,Low,Warehouse A
+10448,304,Electronics,379.87,3/23/2025,13,132,19,Male,Phuket,3261.24,Low,Warehouse B
+10449,147,Toys,93.53,3/24/2025,5,58,55,Other,Phuket,183.15,Low,Warehouse C
+10450,4,Home & Kitchen,210.64,3/25/2025,10,152,54,Male,Chiang Mai,4805.8,High,Warehouse B
+10451,35,Sports,217.12,3/26/2025,12,33,21,Other,Hat Yai,318.48,Medium,Warehouse B
+10452,192,Electronics,412.69,3/27/2025,5,28,39,Male,Chiang Mai,801,Medium,Warehouse A
+10453,49,Sports,10.61,3/28/2025,3,86,43,Other,Hat Yai,168.67,Low,Warehouse C
+10454,17,Electronics,157.42,3/29/2025,7,67,60,Male,Pattaya,2877.61,Low,Warehouse C
+10455,172,Clothing,490.81,3/30/2025,6,109,53,Female,Hat Yai,4668.11,Low,Warehouse A
+10456,220,Beauty,242.69,3/31/2025,4,61,30,Male,Chiang Mai,3363.14,Low,Warehouse C
+10457,158,Electronics,197.44,4/1/2025,2,140,49,Male,Pattaya,4131.02,Low,Warehouse A
+10458,477,Sports,68.72,4/2/2025,12,66,34,Male,Bangkok,165.08,High,Warehouse B
+10459,46,Clothing,487.34,4/3/2025,9,161,58,Other,Phuket,2755.87,Low,Warehouse B
+10460,373,Electronics,19.81,4/4/2025,1,21,53,Other,Chiang Mai,2351.86,Low,Warehouse A
+10461,6,Home & Kitchen,371.22,4/5/2025,13,70,63,Other,Chiang Mai,2544.94,Low,Warehouse B
+10462,99,Beauty,386.61,4/6/2025,13,10,36,Female,Chiang Mai,453.84,High,Warehouse B
+10463,380,Electronics,129.39,4/7/2025,11,62,52,Female,Pattaya,3453.73,Low,Warehouse A
+10464,233,Clothing,339.06,4/8/2025,14,73,63,Male,Bangkok,2565.78,Medium,Warehouse B
+10465,37,Home & Kitchen,55.54,4/9/2025,4,160,57,Female,Hat Yai,3849.23,High,Warehouse C
+10466,280,Toys,135.95,4/10/2025,1,66,45,Male,Bangkok,2477.92,Low,Warehouse B
+10467,349,Clothing,396.07,4/11/2025,13,173,18,Male,Pattaya,831.97,Medium,Warehouse A
+10468,497,Clothing,433.7,4/12/2025,6,86,59,Male,Chiang Mai,3276.46,Low,Warehouse C
+10469,302,Home & Kitchen,308.16,4/13/2025,4,173,35,Female,Phuket,944.69,Low,Warehouse C
+10470,181,Clothing,258.35,4/14/2025,5,181,57,Other,Chiang Mai,4374.73,Medium,Warehouse B
+10471,95,Home & Kitchen,88.06,4/15/2025,5,181,50,Female,Hat Yai,3104.27,Medium,Warehouse C
+10472,99,Electronics,40.92,4/16/2025,9,75,29,Male,Phuket,870.3,Low,Warehouse A
+10473,188,Home & Kitchen,67.65,4/17/2025,1,135,25,Male,Chiang Mai,4815.46,Low,Warehouse C
+10474,481,Home & Kitchen,121.41,4/18/2025,13,14,41,Female,Phuket,2639.99,Low,Warehouse B
+10475,116,Beauty,177.42,4/19/2025,2,102,33,Male,Bangkok,457.2,Low,Warehouse B
+10476,191,Home & Kitchen,196.65,4/20/2025,13,93,21,Male,Pattaya,3171.48,Low,Warehouse C
+10477,253,Home & Kitchen,179.7,4/21/2025,6,39,55,Female,Chiang Mai,1340.67,Low,Warehouse A
+10478,469,Toys,127.14,4/22/2025,5,6,61,Female,Hat Yai,4038.1,Low,Warehouse A
+10479,416,Electronics,259.76,4/23/2025,11,128,44,Female,Bangkok,4107.33,Medium,Warehouse B
+10480,471,Beauty,414.39,4/24/2025,7,28,26,Male,Chiang Mai,4896.84,Low,Warehouse B
+10481,161,Toys,147.05,4/25/2025,3,78,64,Male,Bangkok,2559.16,Low,Warehouse A
+10482,256,Sports,471.77,4/26/2025,3,170,33,Other,Hat Yai,2329.29,Low,Warehouse C
+10483,323,Electronics,437.93,4/27/2025,10,26,29,Other,Chiang Mai,3792.03,Medium,Warehouse C
+10484,128,Electronics,89.26,4/28/2025,2,158,48,Female,Hat Yai,749.11,Low,Warehouse C
+10485,18,Sports,395.28,4/29/2025,13,175,41,Other,Phuket,2779.89,Low,Warehouse C
+10486,281,Home & Kitchen,291.55,4/30/2025,3,187,31,Male,Hat Yai,2776.61,Low,Warehouse A
+10487,490,Toys,287.62,5/1/2025,10,43,62,Other,Phuket,538.42,Medium,Warehouse B
+10488,223,Clothing,201.61,5/2/2025,1,161,42,Male,Chiang Mai,2148.12,Low,Warehouse B
+10489,54,Beauty,255.56,5/3/2025,5,24,51,Female,Phuket,4281.1,Medium,Warehouse C
+10490,58,Clothing,204.62,5/4/2025,14,45,20,Female,Chiang Mai,4295.15,High,Warehouse A
+10491,323,Sports,274.47,5/5/2025,12,186,41,Male,Chiang Mai,586.26,Medium,Warehouse A
+10492,360,Electronics,317.7,5/6/2025,5,152,59,Other,Pattaya,544.53,Medium,Warehouse C
+10493,174,Electronics,340.41,5/7/2025,12,112,26,Female,Chiang Mai,1387.21,Low,Warehouse C
+10494,280,Beauty,270.92,5/8/2025,11,151,43,Female,Phuket,4386.35,Low,Warehouse C
+10495,114,Electronics,363.5,5/9/2025,7,88,37,Other,Pattaya,731.62,High,Warehouse B
+10496,288,Electronics,79.23,5/10/2025,4,115,57,Other,Pattaya,3627.98,Low,Warehouse C
+10497,431,Beauty,113.87,5/11/2025,3,70,27,Male,Chiang Mai,595.71,Low,Warehouse B
+10498,342,Toys,411.18,5/12/2025,1,162,36,Other,Hat Yai,3153.38,Medium,Warehouse A
+10499,151,Toys,168.04,5/13/2025,12,57,20,Other,Hat Yai,1844.73,Low,Warehouse A
+10500,450,Beauty,21.22,5/14/2025,8,38,41,Other,Pattaya,3965.68,Low,Warehouse B
+10501,127,Sports,85.36,5/15/2025,13,154,22,Male,Chiang Mai,1245.08,Low,Warehouse B
+10502,155,Electronics,119.57,5/16/2025,3,71,20,Male,Hat Yai,3232.09,Low,Warehouse B
+10503,490,Electronics,479.09,5/17/2025,13,138,44,Female,Chiang Mai,1254.84,Medium,Warehouse B
+10504,386,Sports,290.79,5/18/2025,2,31,33,Male,Chiang Mai,3596.94,Low,Warehouse C
+10505,474,Toys,467.04,5/19/2025,11,14,32,Female,Pattaya,4381.02,Low,Warehouse A
+10506,273,Home & Kitchen,291.83,5/20/2025,4,77,52,Other,Pattaya,721.33,Low,Warehouse C
+10507,104,Home & Kitchen,244.88,5/21/2025,3,100,29,Female,Bangkok,4346.32,Medium,Warehouse B
+10508,417,Home & Kitchen,163.73,5/22/2025,13,52,58,Female,Hat Yai,3008.52,Medium,Warehouse C
+10509,393,Toys,307.12,5/23/2025,1,74,61,Other,Hat Yai,722.84,Low,Warehouse C
+10510,299,Toys,78.21,5/24/2025,3,191,43,Female,Hat Yai,2194.96,Medium,Warehouse A
+10511,246,Sports,450.15,5/25/2025,12,104,64,Male,Phuket,888.22,Low,Warehouse C
+10512,176,Electronics,416.37,5/26/2025,2,63,51,Male,Chiang Mai,3531.7,High,Warehouse A
+10513,39,Sports,165.59,5/27/2025,8,6,40,Male,Pattaya,3818.45,Low,Warehouse B
+10514,477,Sports,476.87,5/28/2025,6,161,48,Male,Hat Yai,618.4,Medium,Warehouse C
+10515,170,Toys,414.35,5/29/2025,9,69,37,Female,Bangkok,2580.09,Low,Warehouse B
+10516,247,Home & Kitchen,336.49,5/30/2025,8,87,29,Female,Hat Yai,4091.66,Low,Warehouse A
+10517,26,Clothing,69.66,5/31/2025,10,158,40,Other,Chiang Mai,4687.2,Low,Warehouse B
+10518,355,Electronics,244.33,6/1/2025,3,14,21,Female,Chiang Mai,2616.24,Medium,Warehouse B
+10519,306,Toys,257.99,6/2/2025,5,57,40,Female,Pattaya,4756.37,Low,Warehouse A
+10520,409,Home & Kitchen,123.95,6/3/2025,7,83,18,Female,Phuket,2724.88,High,Warehouse B
+10521,408,Clothing,49.18,6/4/2025,5,63,42,Other,Pattaya,2031.53,Low,Warehouse B
+10522,13,Clothing,390.59,6/5/2025,8,154,19,Male,Hat Yai,4256.2,Low,Warehouse B
+10523,316,Toys,69.8,6/6/2025,12,183,47,Female,Bangkok,2515.62,Low,Warehouse C
+10524,391,Beauty,301.2,6/7/2025,5,52,20,Other,Pattaya,2412.32,Medium,Warehouse B
+10525,313,Electronics,468.86,6/8/2025,1,153,38,Other,Phuket,2502.53,Low,Warehouse A
+10526,36,Clothing,439.29,6/9/2025,5,127,42,Other,Pattaya,4249.25,Medium,Warehouse C
+10527,173,Toys,146.1,6/10/2025,4,26,37,Male,Chiang Mai,4176.51,High,Warehouse C
+10528,20,Toys,427.21,6/11/2025,6,104,39,Female,Hat Yai,2077.25,High,Warehouse A
+10529,321,Home & Kitchen,10.16,6/12/2025,3,102,38,Other,Hat Yai,1733.17,Low,Warehouse B
+10530,264,Beauty,18.67,6/13/2025,11,162,50,Male,Hat Yai,2510.45,Medium,Warehouse C
+10531,494,Electronics,305.25,6/14/2025,5,29,55,Other,Hat Yai,2906.59,Medium,Warehouse C
+10532,400,Sports,188.75,6/15/2025,2,32,32,Other,Hat Yai,1267.85,Low,Warehouse C
+10533,142,Home & Kitchen,199.37,6/16/2025,11,197,63,Other,Hat Yai,3990.38,Medium,Warehouse B
+10534,460,Clothing,286.58,6/17/2025,6,117,32,Other,Bangkok,2483.77,Low,Warehouse C
+10535,371,Clothing,103.97,6/18/2025,13,49,63,Other,Phuket,1736.82,Low,Warehouse A
+10536,471,Home & Kitchen,113.76,6/19/2025,12,72,42,Male,Hat Yai,623.42,Low,Warehouse B
+10537,143,Toys,247.45,6/20/2025,6,11,38,Female,Phuket,1270.34,Low,Warehouse A
+10538,92,Clothing,379.58,6/21/2025,5,53,41,Female,Hat Yai,4751.48,Low,Warehouse A
+10539,354,Beauty,313.55,6/22/2025,6,141,22,Female,Pattaya,1594.99,Low,Warehouse C
+10540,322,Electronics,155.7,6/23/2025,11,168,23,Female,Hat Yai,927.41,Medium,Warehouse C
+10541,288,Beauty,220.87,6/24/2025,7,87,60,Male,Chiang Mai,2357.3,Low,Warehouse C
+10542,215,Clothing,93.63,6/25/2025,12,133,61,Male,Bangkok,1604.73,Low,Warehouse A
+10543,447,Sports,46.57,6/26/2025,5,142,64,Male,Pattaya,272.28,Low,Warehouse B
+10544,342,Electronics,393.52,6/27/2025,1,168,40,Other,Pattaya,1683.41,Low,Warehouse C
+10545,51,Electronics,140.04,6/28/2025,8,77,21,Other,Chiang Mai,2766.13,Medium,Warehouse C
+10546,153,Home & Kitchen,97.11,6/29/2025,4,50,44,Other,Hat Yai,2803.39,Low,Warehouse A
+10547,186,Home & Kitchen,348.89,6/30/2025,9,110,35,Female,Bangkok,1847.14,Medium,Warehouse B
+10548,63,Sports,312.85,7/1/2025,14,164,38,Other,Pattaya,2291.78,Low,Warehouse A
+10549,190,Toys,320.26,7/2/2025,10,36,45,Female,Bangkok,4831.04,Medium,Warehouse C
+10550,125,Electronics,122.16,7/3/2025,12,10,52,Other,Pattaya,1949.01,Low,Warehouse A
+10551,150,Sports,124,7/4/2025,6,180,39,Female,Hat Yai,1365.31,Low,Warehouse C
+10552,314,Home & Kitchen,118.19,7/5/2025,1,170,57,Other,Pattaya,1292.99,Medium,Warehouse B
+10553,58,Home & Kitchen,95.14,7/6/2025,3,149,40,Other,Pattaya,2343.05,Low,Warehouse A
+10554,342,Electronics,331.3,7/7/2025,3,78,20,Male,Phuket,3821.65,Medium,Warehouse C
+10555,305,Beauty,425.53,7/8/2025,10,118,57,Other,Hat Yai,1109.34,Medium,Warehouse C
+10556,180,Clothing,364.92,7/9/2025,12,31,27,Other,Chiang Mai,3575.55,Low,Warehouse C
+10557,170,Home & Kitchen,398.13,7/10/2025,12,58,42,Male,Chiang Mai,203.63,Low,Warehouse C
+10558,326,Toys,208.35,7/11/2025,4,182,25,Female,Hat Yai,2152.77,Low,Warehouse A
+10559,271,Toys,330.5,7/12/2025,6,167,28,Male,Chiang Mai,3901.74,High,Warehouse C
+10560,54,Home & Kitchen,183.58,7/13/2025,7,89,22,Male,Hat Yai,1759.79,Medium,Warehouse A
+10561,491,Beauty,267.5,7/14/2025,10,131,62,Female,Chiang Mai,2862.31,Low,Warehouse C
+10562,444,Beauty,246,7/15/2025,4,157,54,Other,Phuket,1104.4,Low,Warehouse A
+10563,101,Sports,96.67,7/16/2025,6,160,62,Female,Chiang Mai,3735.78,Low,Warehouse A
+10564,481,Toys,199.67,7/17/2025,11,115,55,Other,Pattaya,356.17,Medium,Warehouse C
+10565,264,Sports,482.27,7/18/2025,1,19,46,Other,Hat Yai,4277.46,Low,Warehouse C
+10566,53,Toys,131.8,7/19/2025,14,136,22,Female,Bangkok,1071.16,Low,Warehouse C
+10567,60,Clothing,75.56,7/20/2025,8,97,26,Male,Bangkok,4384.55,Medium,Warehouse C
+10568,492,Clothing,215.1,7/21/2025,7,127,19,Female,Hat Yai,1827.39,Low,Warehouse B
+10569,108,Electronics,397.27,7/22/2025,11,77,18,Other,Phuket,3641.15,Low,Warehouse C
+10570,5,Sports,295.25,7/23/2025,11,159,57,Female,Chiang Mai,1664.2,High,Warehouse C
+10571,103,Home & Kitchen,343.68,7/24/2025,9,158,47,Female,Phuket,4538.97,Medium,Warehouse C
+10572,196,Sports,102.95,7/25/2025,3,151,28,Other,Bangkok,720.52,Low,Warehouse A
+10573,262,Home & Kitchen,313.28,7/26/2025,2,96,45,Male,Hat Yai,974.75,Low,Warehouse C
+10574,365,Beauty,168.52,7/27/2025,1,21,61,Female,Hat Yai,2515.85,Low,Warehouse A
+10575,480,Sports,418.81,7/28/2025,3,47,29,Other,Phuket,501.5,Low,Warehouse A
+10576,372,Beauty,318.36,7/29/2025,5,125,56,Other,Phuket,1060.3,Medium,Warehouse A
+10577,350,Clothing,107.44,7/30/2025,14,45,43,Female,Chiang Mai,4724.46,Low,Warehouse A
+10578,47,Clothing,41.66,7/31/2025,11,174,30,Male,Pattaya,4884.8,Medium,Warehouse B
+10579,355,Electronics,30.89,8/1/2025,2,182,25,Female,Pattaya,1943.67,High,Warehouse C
+10580,311,Sports,191.99,8/2/2025,12,172,45,Male,Chiang Mai,4624.1,Low,Warehouse A
+10581,424,Beauty,140.27,8/3/2025,3,43,47,Male,Pattaya,2769.64,Low,Warehouse C
+10582,308,Home & Kitchen,326.58,8/4/2025,4,117,26,Male,Bangkok,1421.74,Low,Warehouse A
+10583,144,Clothing,254.67,8/5/2025,7,155,56,Male,Pattaya,3541.75,High,Warehouse B
+10584,269,Clothing,140.35,8/6/2025,13,115,48,Female,Chiang Mai,3328.62,Medium,Warehouse A
+10585,370,Home & Kitchen,83.13,8/7/2025,3,184,38,Other,Pattaya,4946.71,Low,Warehouse C
+10586,124,Beauty,72.33,8/8/2025,9,51,64,Other,Hat Yai,1398.73,Medium,Warehouse C
+10587,106,Beauty,433.68,8/9/2025,8,67,51,Other,Phuket,3393.09,Low,Warehouse B
+10588,158,Sports,129.3,8/10/2025,4,114,48,Other,Bangkok,354.92,High,Warehouse C
+10589,147,Sports,329.34,8/11/2025,13,73,42,Other,Hat Yai,656.87,Low,Warehouse C
+10590,145,Toys,407.24,8/12/2025,1,47,29,Other,Hat Yai,119.2,Low,Warehouse A
+10591,120,Toys,310.9,8/13/2025,1,180,18,Female,Chiang Mai,4997.36,Medium,Warehouse C
+10592,319,Electronics,431.19,8/14/2025,1,38,39,Male,Phuket,4031.14,Low,Warehouse A
+10593,275,Clothing,202.27,8/15/2025,1,44,57,Other,Phuket,3954.94,Low,Warehouse B
+10594,92,Sports,478.55,8/16/2025,8,65,54,Female,Bangkok,2597.66,Low,Warehouse C
+10595,58,Beauty,75.24,8/17/2025,3,182,64,Other,Chiang Mai,1570.33,Low,Warehouse A
+10596,439,Home & Kitchen,60.05,8/18/2025,6,199,18,Other,Bangkok,841.19,Low,Warehouse C
+10597,346,Beauty,332.76,8/19/2025,3,66,18,Male,Pattaya,1494.91,High,Warehouse A
+10598,229,Clothing,471.99,8/20/2025,11,62,59,Male,Hat Yai,1942.26,Low,Warehouse B
+10599,474,Toys,406.35,8/21/2025,5,165,59,Male,Bangkok,3805.92,Low,Warehouse A
+10600,117,Beauty,47.44,8/22/2025,13,79,38,Other,Hat Yai,2744.34,Medium,Warehouse C
+10601,318,Electronics,146.89,8/23/2025,14,20,32,Other,Chiang Mai,479.67,Low,Warehouse A
+10602,279,Clothing,465.86,8/24/2025,13,86,34,Other,Pattaya,188.34,Low,Warehouse C
+10603,127,Toys,134,8/25/2025,7,98,39,Male,Chiang Mai,601.43,Medium,Warehouse B
+10604,393,Home & Kitchen,392.77,8/26/2025,2,52,55,Female,Pattaya,2111.44,Medium,Warehouse A
+10605,396,Toys,414.31,8/27/2025,6,142,52,Other,Pattaya,4672.65,Medium,Warehouse C
+10606,129,Electronics,252.77,8/28/2025,13,86,62,Other,Hat Yai,3223.27,Medium,Warehouse C
+10607,58,Clothing,199.31,8/29/2025,6,42,33,Other,Chiang Mai,4028.95,Low,Warehouse C
+10608,122,Home & Kitchen,230.56,8/30/2025,11,131,25,Female,Chiang Mai,2385.24,High,Warehouse A
+10609,1,Electronics,121.21,8/31/2025,3,23,64,Other,Bangkok,1872.16,Low,Warehouse A
+10610,239,Toys,445.8,9/1/2025,6,168,34,Female,Chiang Mai,631.16,Medium,Warehouse A
+10611,290,Electronics,230.8,9/2/2025,10,191,34,Other,Bangkok,4392.07,Low,Warehouse B
+10612,96,Clothing,442.41,9/3/2025,10,67,43,Female,Phuket,3937.48,High,Warehouse C
+10613,126,Sports,61.79,9/4/2025,14,81,30,Other,Phuket,923.78,Medium,Warehouse C
+10614,118,Electronics,494.25,9/5/2025,5,178,34,Male,Phuket,2610.08,Medium,Warehouse B
+10615,48,Electronics,227.2,9/6/2025,12,135,55,Male,Chiang Mai,2488.14,Low,Warehouse B
+10616,89,Toys,33.44,9/7/2025,2,106,34,Male,Chiang Mai,3162.95,Low,Warehouse A
+10617,488,Toys,28.63,9/8/2025,9,69,31,Male,Bangkok,4736.32,Medium,Warehouse A
+10618,237,Home & Kitchen,375.64,9/9/2025,8,124,62,Other,Pattaya,2940.88,Medium,Warehouse A
+10619,373,Toys,332.93,9/10/2025,3,95,23,Male,Bangkok,2747.06,Low,Warehouse A
+10620,385,Beauty,403.04,9/11/2025,8,12,52,Female,Phuket,346.58,High,Warehouse A
+10621,272,Clothing,61.63,9/12/2025,14,183,63,Male,Bangkok,408.25,Medium,Warehouse A
+10622,189,Clothing,27.43,9/13/2025,9,77,31,Male,Pattaya,1018,Low,Warehouse B
+10623,487,Sports,259.2,9/14/2025,14,138,64,Male,Chiang Mai,259.11,Medium,Warehouse B
+10624,192,Sports,199.92,9/15/2025,3,111,25,Other,Bangkok,3742.43,Low,Warehouse B
+10625,447,Clothing,236.35,9/16/2025,3,93,32,Male,Phuket,3644.32,Low,Warehouse C
+10626,69,Sports,495.88,9/17/2025,2,43,44,Female,Phuket,766.68,Low,Warehouse C
+10627,278,Home & Kitchen,485.67,9/18/2025,8,117,30,Male,Chiang Mai,4196.79,Low,Warehouse A
+10628,349,Toys,471.73,9/19/2025,10,192,48,Male,Bangkok,858.45,Medium,Warehouse B
+10629,247,Clothing,394.08,9/20/2025,1,32,52,Male,Pattaya,1575.76,Low,Warehouse C
+10630,451,Sports,183.87,9/21/2025,8,101,23,Female,Chiang Mai,1319.99,Medium,Warehouse C
+10631,76,Clothing,211.94,9/22/2025,7,186,22,Male,Bangkok,1924.3,Medium,Warehouse B
+10632,154,Beauty,279.31,9/23/2025,14,41,39,Female,Hat Yai,1347.85,Medium,Warehouse C
+10633,144,Electronics,416.96,9/24/2025,7,141,40,Female,Phuket,2495.86,Low,Warehouse C
+10634,435,Toys,43.67,9/25/2025,3,86,42,Male,Pattaya,2096.3,Medium,Warehouse B
+10635,485,Clothing,217.91,9/26/2025,1,60,51,Female,Pattaya,4934.19,Low,Warehouse C
+10636,86,Electronics,50.48,9/27/2025,4,191,43,Other,Pattaya,374.04,Low,Warehouse B
+10637,185,Sports,262.18,9/28/2025,9,89,64,Male,Phuket,796.69,Low,Warehouse C
+10638,285,Electronics,450.46,9/29/2025,5,6,22,Male,Bangkok,358.85,Low,Warehouse B
+10639,462,Toys,393.42,9/30/2025,1,193,43,Female,Chiang Mai,3166.62,Medium,Warehouse C
+10640,220,Clothing,121.64,10/1/2025,5,62,37,Female,Bangkok,367.1,Low,Warehouse C
+10641,69,Beauty,488.24,10/2/2025,13,111,23,Male,Chiang Mai,4198.55,Medium,Warehouse B
+10642,47,Sports,337,10/3/2025,8,127,23,Other,Pattaya,2608.5,Low,Warehouse C
+10643,497,Clothing,15.11,10/4/2025,8,192,35,Female,Bangkok,2682.34,Low,Warehouse B
+10644,94,Toys,135.15,10/5/2025,5,172,21,Female,Pattaya,2851.81,High,Warehouse B
+10645,238,Sports,137.75,10/6/2025,12,168,34,Other,Hat Yai,936.99,Medium,Warehouse C
+10646,446,Home & Kitchen,43.93,10/7/2025,9,118,31,Other,Pattaya,1068.68,Low,Warehouse A
+10647,453,Electronics,480.31,10/8/2025,1,111,31,Male,Pattaya,1662.2,Low,Warehouse C
+10648,204,Toys,244.35,10/9/2025,4,41,30,Other,Chiang Mai,3008.13,Low,Warehouse A
+10649,400,Home & Kitchen,448.95,10/10/2025,3,83,24,Male,Hat Yai,1129.58,Low,Warehouse A
+10650,218,Clothing,167.89,10/11/2025,2,96,61,Other,Pattaya,670.03,Medium,Warehouse C
+10651,474,Beauty,71.36,10/12/2025,8,22,32,Female,Pattaya,4853.57,Medium,Warehouse A
+10652,432,Sports,242.42,10/13/2025,7,102,36,Male,Hat Yai,207.71,Low,Warehouse B
+10653,341,Electronics,65.84,10/14/2025,9,67,60,Male,Hat Yai,4033.22,High,Warehouse B
+10654,39,Sports,248.15,10/15/2025,2,154,64,Male,Bangkok,3961.37,Low,Warehouse A
+10655,100,Clothing,460.95,10/16/2025,14,143,61,Other,Chiang Mai,1556.35,Low,Warehouse B
+10656,289,Sports,265.18,10/17/2025,14,190,52,Female,Hat Yai,764.57,Low,Warehouse C
+10657,254,Electronics,312.08,10/18/2025,4,189,34,Male,Hat Yai,813.58,Medium,Warehouse B
+10658,222,Clothing,86.75,10/19/2025,14,8,52,Male,Phuket,3517.41,Low,Warehouse A
+10659,357,Sports,31.43,10/20/2025,6,139,36,Male,Hat Yai,3249.75,Low,Warehouse C
+10660,23,Beauty,64.3,10/21/2025,11,65,37,Male,Chiang Mai,3935.45,Low,Warehouse B
+10661,250,Toys,303.28,10/22/2025,3,111,53,Female,Pattaya,4693.66,Low,Warehouse C
+10662,10,Clothing,56.56,10/23/2025,8,58,52,Other,Pattaya,3490.44,Medium,Warehouse A
+10663,246,Toys,194.24,10/24/2025,3,92,49,Female,Pattaya,863.67,Low,Warehouse B
+10664,325,Clothing,279.55,10/25/2025,14,72,61,Male,Pattaya,1292.87,Low,Warehouse C
+10665,100,Beauty,200.44,10/26/2025,12,133,57,Female,Phuket,4226.75,Medium,Warehouse C
+10666,290,Toys,90.21,10/27/2025,13,59,41,Male,Hat Yai,1125.6,High,Warehouse B
+10667,180,Home & Kitchen,144.16,10/28/2025,13,7,34,Other,Pattaya,455.36,High,Warehouse C
+10668,223,Electronics,464.88,10/29/2025,2,170,24,Other,Bangkok,3546.07,Low,Warehouse C
+10669,394,Home & Kitchen,341.23,10/30/2025,13,125,60,Other,Pattaya,2072.38,Low,Warehouse A
+10670,250,Sports,253.06,10/31/2025,13,133,18,Male,Hat Yai,4608.2,Low,Warehouse A
+10671,147,Beauty,16.23,11/1/2025,3,106,52,Female,Pattaya,3286.25,Low,Warehouse A
+10672,442,Home & Kitchen,496.28,11/2/2025,11,42,49,Other,Phuket,543.05,High,Warehouse A
+10673,96,Clothing,339.01,11/3/2025,6,89,53,Male,Chiang Mai,4744.5,Low,Warehouse A
+10674,257,Sports,165.29,11/4/2025,2,161,30,Male,Chiang Mai,1366.93,Low,Warehouse A
+10675,325,Sports,440.84,11/5/2025,8,137,23,Female,Hat Yai,1752.34,Low,Warehouse B
+10676,493,Home & Kitchen,136.63,11/6/2025,1,96,31,Other,Chiang Mai,2071.08,Low,Warehouse A
+10677,4,Home & Kitchen,276.57,11/7/2025,7,25,54,Male,Chiang Mai,351,Medium,Warehouse C
+10678,16,Beauty,321.67,11/8/2025,2,199,32,Female,Bangkok,2532.93,Low,Warehouse B
+10679,280,Electronics,118.32,11/9/2025,10,113,64,Other,Hat Yai,704.26,Low,Warehouse C
+10680,336,Home & Kitchen,489.41,11/10/2025,12,51,21,Female,Hat Yai,2064.75,Low,Warehouse A
+10681,247,Home & Kitchen,376.61,11/11/2025,6,88,57,Female,Chiang Mai,1818.48,Low,Warehouse A
+10682,258,Toys,283.33,11/12/2025,12,87,33,Male,Chiang Mai,3886.92,Low,Warehouse C
+10683,497,Clothing,98.49,11/13/2025,2,39,45,Male,Chiang Mai,4035.54,Medium,Warehouse C
+10684,476,Toys,36.39,11/14/2025,2,73,33,Male,Phuket,851.72,Low,Warehouse C
+10685,384,Toys,166.83,11/15/2025,10,133,21,Female,Pattaya,1896.1,Medium,Warehouse B
+10686,160,Sports,379.06,11/16/2025,13,144,62,Male,Phuket,1929.43,High,Warehouse A
+10687,475,Electronics,141.97,11/17/2025,8,192,43,Female,Hat Yai,841.91,High,Warehouse C
+10688,340,Clothing,274.38,11/18/2025,12,31,45,Female,Bangkok,4012.42,High,Warehouse A
+10689,152,Beauty,366.69,11/19/2025,2,60,49,Male,Pattaya,3565.42,Low,Warehouse C
+10690,396,Beauty,62.89,11/20/2025,7,27,62,Other,Bangkok,1032.87,Low,Warehouse A
+10691,178,Home & Kitchen,345.8,11/21/2025,3,157,19,Other,Hat Yai,1896.94,Low,Warehouse B
+10692,163,Home & Kitchen,55.02,11/22/2025,8,25,48,Other,Hat Yai,618.44,Medium,Warehouse A
+10693,380,Beauty,482.91,11/23/2025,7,65,20,Female,Bangkok,3178.21,High,Warehouse C
+10694,33,Home & Kitchen,249.31,11/24/2025,14,67,25,Female,Bangkok,694.72,Medium,Warehouse A
+10695,417,Electronics,83.83,11/25/2025,8,126,41,Female,Bangkok,4931.08,Low,Warehouse B
+10696,445,Toys,177.77,11/26/2025,14,56,32,Male,Hat Yai,3925.34,High,Warehouse B
+10697,179,Home & Kitchen,212.57,11/27/2025,7,92,60,Female,Chiang Mai,2012.17,Low,Warehouse A
+10698,427,Sports,381.51,11/28/2025,11,157,48,Male,Bangkok,2934.96,Low,Warehouse C
+10699,101,Home & Kitchen,374.28,11/29/2025,6,59,26,Male,Pattaya,4565.57,Low,Warehouse B
+10700,268,Clothing,309.85,11/30/2025,13,50,56,Other,Hat Yai,2815.09,Low,Warehouse B
+10701,323,Electronics,61.91,12/1/2025,7,36,62,Other,Phuket,955.04,Low,Warehouse A
+10702,65,Clothing,84.27,12/2/2025,5,59,19,Other,Phuket,1955.65,Low,Warehouse B
+10703,417,Clothing,55.94,12/3/2025,7,100,25,Male,Pattaya,4231.41,Low,Warehouse B
+10704,168,Sports,292.81,12/4/2025,1,137,24,Male,Chiang Mai,3256.64,Medium,Warehouse C
+10705,330,Electronics,439.8,12/5/2025,1,40,61,Male,Bangkok,3288.55,Medium,Warehouse C
+10706,43,Electronics,222.56,12/6/2025,9,114,56,Female,Hat Yai,4347.43,Medium,Warehouse C
+10707,44,Electronics,88.82,12/7/2025,14,181,59,Male,Bangkok,4480.47,Low,Warehouse A
+10708,285,Electronics,283.44,12/8/2025,5,110,33,Other,Hat Yai,4606.98,Medium,Warehouse B
+10709,397,Electronics,407.76,12/9/2025,13,62,52,Other,Phuket,564.76,High,Warehouse A
+10710,12,Sports,373.44,12/10/2025,5,43,47,Male,Bangkok,2766.22,Low,Warehouse B
+10711,95,Home & Kitchen,441.91,12/11/2025,3,84,27,Male,Pattaya,3728.5,Low,Warehouse B
+10712,302,Clothing,146.17,12/12/2025,5,101,55,Other,Chiang Mai,3808.94,Low,Warehouse B
+10713,386,Electronics,105.04,12/13/2025,3,117,35,Male,Pattaya,3072.91,Low,Warehouse C
+10714,253,Home & Kitchen,441.11,12/14/2025,9,65,22,Other,Chiang Mai,917.26,Medium,Warehouse A
+10715,499,Home & Kitchen,332.2,12/15/2025,9,141,46,Female,Bangkok,4007.36,Medium,Warehouse A
+10716,242,Clothing,162.36,12/16/2025,6,10,56,Other,Bangkok,3628.55,Low,Warehouse B
+10717,35,Sports,373.75,12/17/2025,1,113,51,Female,Chiang Mai,522.07,Medium,Warehouse A
+10718,215,Beauty,409.41,12/18/2025,7,39,60,Male,Phuket,2372.67,Medium,Warehouse C
+10719,337,Beauty,311.34,12/19/2025,7,43,62,Male,Hat Yai,952.49,High,Warehouse A
+10720,90,Home & Kitchen,347.06,12/20/2025,14,154,40,Female,Pattaya,1753.64,Low,Warehouse B
+10721,264,Toys,193.88,12/21/2025,10,173,22,Male,Pattaya,188.6,High,Warehouse C
+10722,93,Toys,273.96,12/22/2025,10,122,47,Female,Pattaya,2061.62,Low,Warehouse C
+10723,410,Clothing,266.84,12/23/2025,4,9,23,Male,Bangkok,2794.4,Low,Warehouse B
+10724,458,Beauty,425.54,12/24/2025,8,174,63,Other,Pattaya,3135.95,Low,Warehouse A
+10725,90,Home & Kitchen,421.58,12/25/2025,6,91,61,Male,Hat Yai,3351.1,Low,Warehouse B
+10726,418,Sports,418.01,12/26/2025,4,80,21,Other,Hat Yai,4197.83,Medium,Warehouse A
+10727,115,Beauty,15.41,12/27/2025,4,199,46,Other,Chiang Mai,1155.77,Low,Warehouse A
+10728,105,Home & Kitchen,377.28,12/28/2025,2,162,40,Female,Bangkok,690.36,Low,Warehouse C
+10729,391,Home & Kitchen,381.75,12/29/2025,14,61,23,Male,Hat Yai,4272.53,Low,Warehouse B
+10730,196,Electronics,342.41,12/30/2025,2,131,49,Female,Phuket,867.4,Medium,Warehouse C
+10731,314,Sports,380.57,12/31/2025,12,33,59,Male,Bangkok,4876.32,Low,Warehouse B
+10732,114,Electronics,422.57,1/1/2026,14,169,35,Other,Bangkok,4228.44,Medium,Warehouse B
+10733,493,Clothing,240.46,1/2/2026,4,91,32,Other,Hat Yai,2554.3,Low,Warehouse C
+10734,75,Electronics,256,1/3/2026,5,145,57,Male,Phuket,4908.96,Low,Warehouse B
+10735,413,Electronics,71.11,1/4/2026,8,164,49,Male,Chiang Mai,577.15,Low,Warehouse B
+10736,376,Beauty,198.83,1/5/2026,6,50,26,Female,Hat Yai,1585.02,Low,Warehouse A
+10737,420,Toys,325.25,1/6/2026,14,120,54,Male,Phuket,3227.3,Low,Warehouse B
+10738,217,Home & Kitchen,392.4,1/7/2026,4,116,27,Male,Bangkok,1815.03,Low,Warehouse B
+10739,277,Sports,116.43,1/8/2026,13,155,37,Male,Phuket,4649.03,High,Warehouse C
+10740,249,Electronics,77.53,1/9/2026,11,49,23,Female,Bangkok,421.57,Medium,Warehouse C
+10741,164,Sports,334.89,1/10/2026,7,149,20,Male,Hat Yai,2792.12,Low,Warehouse B
+10742,394,Toys,10.92,1/11/2026,8,108,59,Other,Hat Yai,2995.24,Low,Warehouse A
+10743,357,Toys,97.4,1/12/2026,2,89,28,Female,Pattaya,3298.37,Medium,Warehouse A
+10744,457,Electronics,24.24,1/13/2026,12,198,60,Female,Pattaya,1352.76,Low,Warehouse C
+10745,408,Clothing,91.77,1/14/2026,7,138,34,Other,Pattaya,1886.38,Low,Warehouse B
+10746,192,Electronics,98.85,1/15/2026,14,112,49,Other,Hat Yai,4234.03,Medium,Warehouse B
+10747,227,Beauty,199.96,1/16/2026,2,22,21,Other,Chiang Mai,1055.22,Medium,Warehouse A
+10748,177,Home & Kitchen,207.14,1/17/2026,2,98,21,Male,Hat Yai,4151.65,Low,Warehouse A
+10749,99,Clothing,438.39,1/18/2026,8,154,34,Other,Phuket,2857.01,Low,Warehouse A
+10750,496,Electronics,259.95,1/19/2026,2,37,58,Male,Hat Yai,3834.72,Low,Warehouse C
+10751,36,Sports,364.47,1/20/2026,11,162,36,Female,Hat Yai,3596.68,Medium,Warehouse B
+10752,466,Clothing,61.03,1/21/2026,9,130,22,Female,Bangkok,1116.81,Low,Warehouse C
+10753,497,Clothing,120.46,1/22/2026,12,164,49,Other,Bangkok,2887.18,Low,Warehouse B
+10754,487,Electronics,354.44,1/23/2026,1,174,39,Male,Bangkok,4351.84,Low,Warehouse C
+10755,96,Clothing,35.87,1/24/2026,9,126,23,Other,Hat Yai,2217.37,Low,Warehouse B
+10756,152,Sports,248.43,1/25/2026,1,142,52,Other,Chiang Mai,4836.29,High,Warehouse A
+10757,151,Toys,303.69,1/26/2026,10,119,39,Male,Phuket,2315.85,Medium,Warehouse A
+10758,190,Clothing,305.05,1/27/2026,13,168,18,Other,Phuket,799.65,Medium,Warehouse A
+10759,224,Toys,21.24,1/28/2026,10,166,37,Female,Chiang Mai,2008.23,Low,Warehouse C
+10760,37,Sports,167.83,1/29/2026,2,32,39,Other,Chiang Mai,4763.34,Low,Warehouse A
+10761,268,Electronics,321.88,1/30/2026,6,15,28,Male,Phuket,1666.63,Low,Warehouse B
+10762,369,Home & Kitchen,83.01,1/31/2026,6,171,30,Male,Pattaya,4353.68,Low,Warehouse C
+10763,183,Clothing,350.75,2/1/2026,1,51,59,Female,Bangkok,4418.13,High,Warehouse B
+10764,13,Home & Kitchen,375.5,2/2/2026,7,131,20,Male,Bangkok,1815.91,Low,Warehouse C
+10765,279,Sports,491.16,2/3/2026,8,151,26,Male,Phuket,507.96,Low,Warehouse B
+10766,217,Clothing,112.82,2/4/2026,2,122,29,Female,Chiang Mai,3650.33,Low,Warehouse B
+10767,355,Toys,414.31,2/5/2026,8,147,40,Other,Pattaya,1626.41,Medium,Warehouse C
+10768,361,Beauty,264.95,2/6/2026,9,130,31,Female,Phuket,3936.33,Low,Warehouse C
+10769,286,Home & Kitchen,193,2/7/2026,6,160,50,Other,Bangkok,2269.01,Low,Warehouse A
+10770,273,Clothing,69.96,2/8/2026,5,156,35,Female,Hat Yai,2477.81,Low,Warehouse A
+10771,369,Home & Kitchen,370.4,2/9/2026,12,76,58,Other,Chiang Mai,3911.76,Medium,Warehouse B
+10772,62,Clothing,125.57,2/10/2026,9,111,26,Female,Hat Yai,1973.58,Low,Warehouse B
+10773,84,Electronics,192,2/11/2026,13,141,40,Other,Phuket,2271.32,High,Warehouse B
+10774,368,Toys,40.65,2/12/2026,12,179,27,Female,Bangkok,1943.33,Medium,Warehouse C
+10775,217,Home & Kitchen,402.67,2/13/2026,11,37,36,Other,Pattaya,1899.97,Low,Warehouse C
+10776,342,Beauty,385.63,2/14/2026,9,194,64,Female,Hat Yai,2677.14,Medium,Warehouse A
+10777,397,Beauty,369.47,2/15/2026,1,23,22,Male,Pattaya,4063.12,Low,Warehouse B
+10778,187,Sports,156.73,2/16/2026,11,199,64,Other,Bangkok,1872.66,High,Warehouse A
+10779,19,Clothing,95.01,2/17/2026,3,78,40,Female,Hat Yai,2668.85,Low,Warehouse C
+10780,177,Home & Kitchen,322.4,2/18/2026,9,172,47,Other,Pattaya,3386.56,Low,Warehouse C
+10781,100,Sports,253.12,2/19/2026,11,179,42,Other,Pattaya,1420.25,Low,Warehouse C
+10782,396,Home & Kitchen,97.34,2/20/2026,2,197,45,Female,Hat Yai,1459.86,Low,Warehouse A
+10783,445,Clothing,346.1,2/21/2026,12,161,51,Other,Bangkok,4673.72,High,Warehouse C
+10784,233,Beauty,495.65,2/22/2026,4,182,62,Female,Pattaya,3645.32,Low,Warehouse B
+10785,403,Electronics,376.14,2/23/2026,4,102,64,Male,Phuket,2928.21,Medium,Warehouse A
+10786,76,Beauty,372.59,2/24/2026,2,145,42,Other,Hat Yai,3273.83,Low,Warehouse C
+10787,265,Sports,475.65,2/25/2026,3,133,27,Male,Chiang Mai,243.57,High,Warehouse A
+10788,455,Toys,109.44,2/26/2026,13,166,31,Other,Chiang Mai,3128.7,Low,Warehouse A
+10789,284,Electronics,287.12,2/27/2026,3,97,59,Other,Bangkok,2596.59,Low,Warehouse C
+10790,206,Sports,490.03,2/28/2026,1,180,63,Other,Phuket,2774.17,Low,Warehouse C
+10791,223,Clothing,90.99,3/1/2026,6,52,47,Female,Pattaya,1861.18,Medium,Warehouse A
+10792,384,Electronics,353.12,3/2/2026,8,181,58,Male,Chiang Mai,499.22,Low,Warehouse A
+10793,52,Sports,297.05,3/3/2026,12,68,42,Other,Bangkok,1047.36,Low,Warehouse C
+10794,339,Clothing,297.37,3/4/2026,3,65,31,Female,Phuket,4758.65,Low,Warehouse B
+10795,367,Beauty,351.86,3/5/2026,5,161,52,Other,Phuket,2102.63,Medium,Warehouse A
+10796,144,Toys,465.51,3/6/2026,1,43,51,Female,Bangkok,2386.75,Low,Warehouse A
+10797,373,Clothing,393.47,3/7/2026,10,132,27,Other,Bangkok,358.28,Low,Warehouse B
+10798,69,Home & Kitchen,37.51,3/8/2026,7,92,52,Male,Pattaya,284.07,Low,Warehouse C
+10799,99,Clothing,427.84,3/9/2026,10,30,28,Male,Bangkok,3614.19,Medium,Warehouse C
+10800,396,Clothing,120.52,3/10/2026,13,21,28,Other,Pattaya,2736.66,High,Warehouse B
+10801,25,Toys,194.69,3/11/2026,1,75,38,Female,Pattaya,2592.66,Low,Warehouse C
+10802,436,Home & Kitchen,236.25,3/12/2026,12,17,38,Other,Hat Yai,1291.31,Low,Warehouse C
+10803,379,Sports,245.64,3/13/2026,11,73,39,Female,Phuket,3749.28,Low,Warehouse A
+10804,469,Sports,223.24,3/14/2026,9,30,62,Other,Phuket,924.36,Low,Warehouse A
+10805,484,Clothing,469.3,3/15/2026,8,53,24,Female,Phuket,1030.68,Low,Warehouse A
+10806,53,Home & Kitchen,355.95,3/16/2026,7,199,34,Male,Hat Yai,2357.49,Medium,Warehouse B
+10807,151,Home & Kitchen,319.27,3/17/2026,10,11,19,Other,Pattaya,1502.77,Low,Warehouse C
+10808,144,Toys,34.42,3/18/2026,7,62,29,Male,Pattaya,1312.57,High,Warehouse C
+10809,57,Beauty,452.92,3/19/2026,5,53,59,Male,Bangkok,3261.66,Low,Warehouse A
+10810,39,Sports,455.6,3/20/2026,5,107,35,Other,Hat Yai,3289.76,Medium,Warehouse A
+10811,109,Toys,392.3,3/21/2026,11,57,28,Other,Bangkok,4140.13,Low,Warehouse B
+10812,181,Electronics,13.44,3/22/2026,13,197,33,Female,Hat Yai,2146.77,Low,Warehouse C
+10813,42,Sports,38.07,3/23/2026,5,66,35,Female,Bangkok,458.12,Low,Warehouse B
+10814,186,Toys,120.36,3/24/2026,1,21,52,Male,Chiang Mai,1440.97,Low,Warehouse C
+10815,423,Sports,74.36,3/25/2026,8,175,43,Female,Phuket,4902.03,Low,Warehouse B
+10816,398,Beauty,205.43,3/26/2026,12,29,33,Female,Phuket,3021.67,Medium,Warehouse A
+10817,223,Electronics,462.09,3/27/2026,11,135,23,Other,Pattaya,3577.71,High,Warehouse B
+10818,122,Beauty,241.31,3/28/2026,1,33,61,Female,Chiang Mai,136.05,Low,Warehouse B
+10819,133,Electronics,16.57,3/29/2026,4,121,60,Male,Phuket,2639.21,Low,Warehouse A
+10820,163,Clothing,148.55,3/30/2026,9,164,64,Female,Pattaya,283.89,Low,Warehouse C
+10821,215,Toys,31.85,3/31/2026,14,30,64,Male,Chiang Mai,2889.23,Low,Warehouse C
+10822,221,Electronics,27.78,4/1/2026,9,128,59,Other,Phuket,4611.78,Low,Warehouse A
+10823,235,Beauty,145.1,4/2/2026,5,148,29,Male,Bangkok,4845.25,Medium,Warehouse B
+10824,331,Sports,145.05,4/3/2026,4,29,30,Female,Hat Yai,2748.71,High,Warehouse B
+10825,146,Electronics,395.69,4/4/2026,3,58,21,Other,Chiang Mai,2345.2,High,Warehouse B
+10826,239,Toys,487.67,4/5/2026,3,160,56,Female,Pattaya,4730.58,Low,Warehouse C
+10827,76,Electronics,191.89,4/6/2026,12,77,19,Other,Chiang Mai,3400.69,Medium,Warehouse B
+10828,9,Home & Kitchen,220.15,4/7/2026,5,124,43,Other,Pattaya,418.01,Medium,Warehouse C
+10829,74,Sports,423.95,4/8/2026,10,60,44,Female,Chiang Mai,2382.06,Low,Warehouse B
+10830,442,Toys,141.39,4/9/2026,1,69,44,Female,Pattaya,1277.2,Low,Warehouse A
+10831,492,Toys,86.63,4/10/2026,5,97,32,Other,Phuket,2402.04,Medium,Warehouse A
+10832,401,Clothing,428.01,4/11/2026,6,90,25,Other,Bangkok,2331.78,Low,Warehouse C
+10833,253,Beauty,32.79,4/12/2026,7,84,24,Female,Phuket,2952.51,Low,Warehouse C
+10834,230,Clothing,313.65,4/13/2026,12,173,64,Male,Bangkok,1848.18,Low,Warehouse A
+10835,7,Toys,285.38,4/14/2026,9,112,63,Female,Phuket,904.93,Low,Warehouse A
+10836,174,Sports,179.5,4/15/2026,3,183,57,Other,Phuket,2568.23,Low,Warehouse B
+10837,141,Electronics,164.44,4/16/2026,2,122,29,Female,Chiang Mai,4167.99,High,Warehouse A
+10838,168,Electronics,388.21,4/17/2026,14,161,30,Male,Hat Yai,3353.66,Medium,Warehouse C
+10839,170,Sports,52.35,4/18/2026,3,87,60,Female,Pattaya,1758,Medium,Warehouse A
+10840,393,Toys,126.02,4/19/2026,12,151,34,Other,Pattaya,4684.06,Low,Warehouse C
+10841,434,Electronics,368.9,4/20/2026,9,198,34,Female,Pattaya,4569.82,Medium,Warehouse C
+10842,283,Electronics,278.68,4/21/2026,12,173,53,Other,Bangkok,1125.81,Low,Warehouse B
+10843,122,Electronics,72.71,4/22/2026,7,177,38,Other,Pattaya,293.15,Low,Warehouse B
+10844,194,Beauty,442.25,4/23/2026,9,19,25,Female,Pattaya,3732.41,Low,Warehouse B
+10845,5,Beauty,202.79,4/24/2026,13,135,22,Other,Chiang Mai,4155.29,Low,Warehouse B
+10846,29,Home & Kitchen,415.66,4/25/2026,2,143,43,Other,Phuket,4842.54,Low,Warehouse A
+10847,165,Clothing,395.98,4/26/2026,5,185,33,Male,Pattaya,4460.2,Low,Warehouse B
+10848,422,Sports,315.97,4/27/2026,13,178,53,Male,Hat Yai,3042.62,Low,Warehouse A
+10849,339,Sports,252.3,4/28/2026,4,34,45,Male,Pattaya,2697.26,Low,Warehouse B
+10850,136,Sports,489.98,4/29/2026,2,61,46,Male,Bangkok,236.42,High,Warehouse B
+10851,496,Home & Kitchen,81.03,4/30/2026,9,150,64,Other,Bangkok,1308.62,Low,Warehouse C
+10852,365,Beauty,365.33,5/1/2026,9,183,29,Female,Bangkok,2352.11,Medium,Warehouse A
+10853,321,Toys,103.68,5/2/2026,6,132,54,Other,Pattaya,3179.67,Low,Warehouse C
+10854,342,Toys,175.75,5/3/2026,11,52,47,Other,Chiang Mai,2830.53,Low,Warehouse B
+10855,145,Home & Kitchen,161.26,5/4/2026,6,198,40,Other,Hat Yai,3738.92,High,Warehouse A
+10856,327,Toys,474.05,5/5/2026,8,140,33,Female,Pattaya,1470.86,Low,Warehouse B
+10857,217,Sports,484,5/6/2026,6,26,31,Male,Chiang Mai,2868.27,Low,Warehouse C
+10858,301,Clothing,99.68,5/7/2026,1,10,27,Other,Chiang Mai,531.9,Medium,Warehouse A
+10859,132,Electronics,20.8,5/8/2026,4,189,24,Other,Pattaya,2126.96,Low,Warehouse C
+10860,292,Beauty,362.8,5/9/2026,13,108,62,Male,Pattaya,3775.79,Medium,Warehouse B
+10861,70,Beauty,214.82,5/10/2026,7,40,54,Other,Chiang Mai,3497.66,Low,Warehouse B
+10862,252,Home & Kitchen,53.53,5/11/2026,13,83,46,Female,Chiang Mai,4954.15,Low,Warehouse B
+10863,415,Beauty,345.04,5/12/2026,13,120,20,Other,Chiang Mai,1461.67,Low,Warehouse A
+10864,275,Sports,277.1,5/13/2026,2,61,32,Other,Pattaya,2541.13,Low,Warehouse C
+10865,445,Toys,490.45,5/14/2026,9,53,53,Male,Chiang Mai,1714.7,Medium,Warehouse C
+10866,364,Sports,121.43,5/15/2026,8,177,64,Other,Bangkok,2258.96,Medium,Warehouse B
+10867,182,Home & Kitchen,207.95,5/16/2026,8,86,63,Other,Pattaya,4299.06,Low,Warehouse C
+10868,167,Sports,275.85,5/17/2026,7,70,36,Female,Bangkok,3452.62,Low,Warehouse A
+10869,91,Toys,397.93,5/18/2026,4,81,30,Male,Phuket,4423.96,Medium,Warehouse B
+10870,202,Clothing,278.93,5/19/2026,2,49,59,Male,Pattaya,1097.2,Low,Warehouse B
+10871,346,Home & Kitchen,310.32,5/20/2026,3,83,38,Female,Phuket,4379.47,Low,Warehouse B
+10872,19,Clothing,120.81,5/21/2026,12,24,54,Other,Chiang Mai,392.84,Low,Warehouse A
+10873,39,Electronics,424.99,5/22/2026,6,196,44,Male,Chiang Mai,4454.14,Low,Warehouse B
+10874,126,Clothing,220.03,5/23/2026,12,127,46,Male,Hat Yai,1712.46,Medium,Warehouse B
+10875,451,Electronics,79.07,5/24/2026,12,71,37,Other,Chiang Mai,1641.48,High,Warehouse B
+10876,173,Electronics,335.45,5/25/2026,5,87,42,Other,Phuket,2609.23,Low,Warehouse B
+10877,141,Clothing,115.88,5/26/2026,12,7,23,Male,Chiang Mai,4709.38,Low,Warehouse C
+10878,242,Home & Kitchen,57.81,5/27/2026,8,186,53,Other,Pattaya,334.13,Low,Warehouse B
+10879,220,Toys,432.37,5/28/2026,6,68,19,Male,Chiang Mai,1825.93,Low,Warehouse A
+10880,126,Sports,235.48,5/29/2026,6,44,39,Other,Hat Yai,4297.2,Low,Warehouse B
+10881,58,Sports,377.15,5/30/2026,1,63,49,Other,Chiang Mai,2040.67,Medium,Warehouse B
+10882,148,Toys,152.39,5/31/2026,4,187,33,Female,Phuket,1075.87,Low,Warehouse C
+10883,476,Electronics,395.62,6/1/2026,5,66,35,Other,Phuket,2181.49,Low,Warehouse B
+10884,456,Electronics,64.85,6/2/2026,12,136,22,Female,Chiang Mai,1989.21,Low,Warehouse C
+10885,317,Home & Kitchen,184.43,6/3/2026,11,64,53,Other,Phuket,4585.54,Low,Warehouse A
+10886,383,Beauty,489.25,6/4/2026,3,120,47,Male,Phuket,3833.48,Low,Warehouse C
+10887,361,Clothing,399.05,6/5/2026,13,79,62,Male,Hat Yai,2575.07,Medium,Warehouse B
+10888,423,Electronics,253.66,6/6/2026,9,126,36,Other,Pattaya,4943.02,Low,Warehouse A
+10889,1,Sports,176.49,6/7/2026,1,111,40,Other,Hat Yai,2379.86,Medium,Warehouse B
+10890,387,Home & Kitchen,437.35,6/8/2026,6,100,51,Male,Bangkok,385.37,Low,Warehouse C
+10891,461,Clothing,276.98,6/9/2026,6,95,30,Other,Hat Yai,1385.14,Low,Warehouse A
+10892,348,Home & Kitchen,381.63,6/10/2026,10,162,60,Female,Chiang Mai,2236.75,Low,Warehouse A
+10893,190,Clothing,379.51,6/11/2026,5,134,46,Female,Pattaya,868.82,Low,Warehouse C
+10894,191,Clothing,18.79,6/12/2026,12,66,53,Female,Chiang Mai,4743.07,Low,Warehouse C
+10895,369,Toys,71.86,6/13/2026,5,53,39,Female,Bangkok,3857.56,Low,Warehouse A
+10896,409,Electronics,333.22,6/14/2026,10,141,64,Female,Pattaya,1414.61,Medium,Warehouse A
+10897,312,Home & Kitchen,89.19,6/15/2026,14,96,53,Other,Phuket,2994.94,Medium,Warehouse C
+10898,417,Home & Kitchen,135.19,6/16/2026,13,163,26,Other,Hat Yai,3635.1,Low,Warehouse B
+10899,422,Toys,473.85,6/17/2026,5,128,56,Female,Chiang Mai,4712.27,Low,Warehouse A
+10900,117,Sports,284.49,6/18/2026,6,65,36,Other,Bangkok,4420.01,Low,Warehouse C
+10901,134,Sports,377.86,6/19/2026,8,52,55,Other,Phuket,2624.44,Low,Warehouse B
+10902,58,Electronics,283.41,6/20/2026,2,157,23,Female,Hat Yai,3895.8,Low,Warehouse A
+10903,44,Electronics,280.73,6/21/2026,6,168,64,Other,Phuket,2854.51,Medium,Warehouse A
+10904,173,Beauty,56.13,6/22/2026,1,140,32,Other,Hat Yai,2808.25,Low,Warehouse C
+10905,160,Toys,178.39,6/23/2026,4,62,37,Other,Pattaya,662.24,Low,Warehouse B
+10906,173,Sports,148.39,6/24/2026,14,105,26,Female,Phuket,718.07,Low,Warehouse A
+10907,317,Clothing,201.46,6/25/2026,10,116,49,Other,Phuket,2694.71,Low,Warehouse B
+10908,303,Home & Kitchen,401.19,6/26/2026,3,177,21,Male,Phuket,1417.42,Medium,Warehouse B
+10909,149,Electronics,192.25,6/27/2026,9,66,35,Male,Pattaya,203.08,Low,Warehouse A
+10910,80,Home & Kitchen,231.33,6/28/2026,3,43,22,Female,Bangkok,3641.91,Low,Warehouse B
+10911,374,Home & Kitchen,204.72,6/29/2026,6,62,37,Male,Hat Yai,259.18,Medium,Warehouse A
+10912,213,Beauty,55.77,6/30/2026,1,103,40,Female,Phuket,3016.86,Low,Warehouse B
+10913,203,Sports,226.13,7/1/2026,12,196,28,Male,Pattaya,2742.05,Medium,Warehouse A
+10914,252,Electronics,105.85,7/2/2026,6,48,54,Male,Bangkok,4847.19,Low,Warehouse C
+10915,229,Home & Kitchen,101.49,7/3/2026,4,33,39,Male,Hat Yai,2472.64,Low,Warehouse A
+10916,164,Electronics,56.08,7/4/2026,8,63,21,Female,Pattaya,411.65,Medium,Warehouse A
+10917,227,Clothing,184.77,7/5/2026,13,75,46,Female,Hat Yai,2803.27,Low,Warehouse A
+10918,147,Beauty,381.17,7/6/2026,11,96,61,Other,Phuket,4221.37,Low,Warehouse B
+10919,20,Clothing,145.46,7/7/2026,9,13,51,Female,Bangkok,4984.56,Low,Warehouse C
+10920,441,Electronics,163.05,7/8/2026,4,131,30,Male,Pattaya,2208.68,Low,Warehouse B
+10921,402,Electronics,324.91,7/9/2026,10,138,59,Male,Bangkok,1669.46,Medium,Warehouse B
+10922,47,Sports,105.96,7/10/2026,12,161,26,Female,Phuket,4542.6,Medium,Warehouse A
+10923,233,Home & Kitchen,449.51,7/11/2026,10,190,59,Female,Bangkok,1037.09,High,Warehouse B
+10924,305,Home & Kitchen,264.89,7/12/2026,6,149,48,Female,Bangkok,3115.6,Medium,Warehouse A
+10925,14,Clothing,229.33,7/13/2026,1,148,24,Other,Chiang Mai,2088,Low,Warehouse C
+10926,143,Beauty,283.33,7/14/2026,4,135,21,Male,Bangkok,301.3,Low,Warehouse B
+10927,415,Toys,91.36,7/15/2026,7,25,36,Other,Hat Yai,1801.71,Low,Warehouse B
+10928,1,Home & Kitchen,310.6,7/16/2026,12,68,59,Other,Pattaya,1399.62,Low,Warehouse B
+10929,373,Sports,187.92,7/17/2026,1,94,47,Male,Chiang Mai,3461.85,Low,Warehouse A
+10930,54,Clothing,449.62,7/18/2026,8,40,48,Male,Pattaya,4749.07,High,Warehouse A
+10931,374,Clothing,92.74,7/19/2026,12,66,52,Female,Pattaya,1413.43,Low,Warehouse B
+10932,259,Toys,258.46,7/20/2026,10,174,38,Female,Phuket,4076.18,Low,Warehouse B
+10933,144,Sports,303.08,7/21/2026,12,80,48,Other,Phuket,371.26,Low,Warehouse C
+10934,471,Beauty,26.36,7/22/2026,11,174,36,Female,Chiang Mai,2736.79,Medium,Warehouse C
+10935,441,Sports,188.21,7/23/2026,6,193,48,Female,Phuket,445.7,Medium,Warehouse C
+10936,459,Beauty,368.99,7/24/2026,5,17,49,Male,Phuket,4676.76,Medium,Warehouse C
+10937,12,Sports,411.98,7/25/2026,10,15,19,Male,Phuket,3855.12,Low,Warehouse C
+10938,330,Sports,163.45,7/26/2026,11,58,27,Female,Pattaya,3323.95,Medium,Warehouse A
+10939,224,Electronics,401.31,7/27/2026,14,20,19,Male,Chiang Mai,4137.09,Low,Warehouse C
+10940,272,Clothing,484.2,7/28/2026,9,12,19,Female,Pattaya,3272.85,Medium,Warehouse C
+10941,456,Sports,429.87,7/29/2026,2,108,41,Male,Hat Yai,4847.83,Low,Warehouse B
+10942,358,Toys,67.65,7/30/2026,5,63,34,Male,Pattaya,3598.39,Low,Warehouse A
+10943,460,Sports,372.47,7/31/2026,6,61,49,Male,Hat Yai,4630.83,Low,Warehouse C
+10944,408,Home & Kitchen,166.64,8/1/2026,7,44,33,Male,Bangkok,2633.95,Medium,Warehouse C
+10945,156,Clothing,494.32,8/2/2026,5,191,33,Female,Bangkok,673.62,Low,Warehouse C
+10946,373,Home & Kitchen,247.83,8/3/2026,9,134,63,Other,Hat Yai,2688.07,Medium,Warehouse B
+10947,8,Clothing,69.99,8/4/2026,1,98,56,Male,Hat Yai,721.68,Low,Warehouse B
+10948,122,Home & Kitchen,365.34,8/5/2026,7,142,48,Female,Pattaya,3003.22,Low,Warehouse B
+10949,348,Sports,168.28,8/6/2026,10,48,60,Female,Hat Yai,2464.22,Low,Warehouse C
+10950,164,Sports,498.57,8/7/2026,7,143,41,Male,Chiang Mai,3150.62,Low,Warehouse B
+10951,90,Electronics,490.09,8/8/2026,4,84,18,Other,Bangkok,149.23,Low,Warehouse C
+10952,136,Toys,331.51,8/9/2026,9,85,28,Male,Bangkok,1054.72,Low,Warehouse A
+10953,186,Home & Kitchen,73.61,8/10/2026,14,6,38,Female,Hat Yai,2507.52,Medium,Warehouse C
+10954,316,Beauty,346.56,8/11/2026,12,182,21,Other,Phuket,4757.47,Low,Warehouse B
+10955,178,Electronics,55.58,8/12/2026,11,144,24,Female,Phuket,1979.68,High,Warehouse A
+10956,28,Home & Kitchen,24.39,8/13/2026,5,119,43,Male,Hat Yai,2179.42,Low,Warehouse C
+10957,220,Home & Kitchen,413.25,8/14/2026,4,94,64,Other,Chiang Mai,3602.01,Medium,Warehouse A
+10958,357,Electronics,112.78,8/15/2026,13,27,29,Female,Phuket,3058.58,Low,Warehouse A
+10959,41,Sports,195.72,8/16/2026,7,150,48,Female,Hat Yai,1564.74,Low,Warehouse A
+10960,228,Home & Kitchen,486.99,8/17/2026,4,66,34,Female,Chiang Mai,2113,Low,Warehouse C
+10961,192,Sports,175.05,8/18/2026,3,117,50,Male,Chiang Mai,1166.73,Low,Warehouse B
+10962,411,Electronics,155.28,8/19/2026,9,132,28,Other,Pattaya,4833.51,Medium,Warehouse C
+10963,447,Sports,459.92,8/20/2026,11,66,45,Male,Chiang Mai,740.11,Low,Warehouse B
+10964,145,Clothing,64.27,8/21/2026,8,42,49,Male,Phuket,1922,Low,Warehouse C
+10965,201,Beauty,382.2,8/22/2026,1,199,18,Male,Phuket,226.61,Medium,Warehouse C
+10966,417,Home & Kitchen,494.15,8/23/2026,7,170,64,Other,Hat Yai,1186.72,Low,Warehouse C
+10967,212,Toys,451.64,8/24/2026,9,199,45,Male,Hat Yai,3924.31,Medium,Warehouse B
+10968,461,Beauty,329.32,8/25/2026,8,65,59,Male,Chiang Mai,1085.76,Low,Warehouse C
+10969,220,Sports,163.89,8/26/2026,8,133,24,Male,Bangkok,492.31,Medium,Warehouse A
+10970,240,Home & Kitchen,134.62,8/27/2026,13,177,19,Male,Pattaya,2424.82,Low,Warehouse C
+10971,413,Sports,411.44,8/28/2026,6,160,59,Female,Bangkok,148.85,Low,Warehouse A
+10972,397,Clothing,441.11,8/29/2026,11,153,41,Male,Chiang Mai,515.35,Low,Warehouse B
+10973,46,Electronics,267.46,8/30/2026,4,126,21,Female,Chiang Mai,4057.37,High,Warehouse B
+10974,35,Home & Kitchen,129.73,8/31/2026,8,114,61,Male,Bangkok,3880.22,Low,Warehouse C
+10975,253,Clothing,65.34,9/1/2026,3,17,36,Other,Pattaya,4584.18,Low,Warehouse C
+10976,390,Clothing,52.72,9/2/2026,13,159,43,Female,Bangkok,4287.13,Medium,Warehouse C
+10977,82,Home & Kitchen,362.35,9/3/2026,9,104,28,Female,Hat Yai,3447.56,High,Warehouse A
+10978,371,Sports,215.86,9/4/2026,13,139,57,Female,Phuket,356.43,Medium,Warehouse B
+10979,256,Toys,453.63,9/5/2026,2,26,60,Female,Hat Yai,3935.96,High,Warehouse A
+10980,197,Clothing,372.44,9/6/2026,2,78,28,Other,Phuket,4243,Low,Warehouse A
+10981,303,Beauty,103.72,9/7/2026,12,185,62,Male,Chiang Mai,4015.5,Low,Warehouse C
+10982,409,Clothing,310.75,9/8/2026,13,136,20,Female,Pattaya,2591.55,Medium,Warehouse C
+10983,450,Toys,223.4,9/9/2026,12,27,29,Other,Bangkok,1241.22,Medium,Warehouse A
+10984,10,Sports,292.85,9/10/2026,7,123,20,Female,Pattaya,4242.12,Low,Warehouse A
+10985,312,Sports,371.65,9/11/2026,12,74,59,Male,Bangkok,3663.1,Low,Warehouse C
+10986,286,Beauty,405.04,9/12/2026,10,88,44,Female,Hat Yai,4905.73,Medium,Warehouse C
+10987,242,Clothing,423.43,9/13/2026,4,105,19,Other,Hat Yai,862.89,Low,Warehouse A
+10988,251,Sports,134.45,9/14/2026,10,88,33,Male,Bangkok,1205.76,Low,Warehouse C
+10989,365,Toys,25.25,9/15/2026,8,165,19,Other,Pattaya,1137.81,Low,Warehouse C
+10990,5,Home & Kitchen,372.25,9/16/2026,9,32,47,Male,Bangkok,3983.44,Low,Warehouse A
+10991,119,Electronics,62.11,9/17/2026,7,140,37,Male,Chiang Mai,1015.85,Medium,Warehouse A
+10992,289,Electronics,164.31,9/18/2026,5,5,55,Male,Hat Yai,426.63,Low,Warehouse B
+10993,374,Electronics,11.87,9/19/2026,8,169,45,Female,Chiang Mai,4992.95,Medium,Warehouse A
+10994,65,Clothing,344.02,9/20/2026,4,67,42,Other,Hat Yai,221.6,Low,Warehouse C
+10995,146,Beauty,91.89,9/21/2026,2,26,49,Other,Hat Yai,4192.7,Low,Warehouse A
+10996,224,Sports,331.09,9/22/2026,11,74,27,Other,Phuket,1890.3,Medium,Warehouse A
+10997,239,Home & Kitchen,495.95,9/23/2026,12,129,59,Male,Chiang Mai,4223.92,Low,Warehouse A
+10998,177,Toys,45.61,9/24/2026,6,153,57,Female,Chiang Mai,2817.64,Low,Warehouse B
+10999,267,Home & Kitchen,47.77,9/25/2026,9,100,50,Male,Phuket,4517.99,Low,Warehouse B
+11000,341,Toys,176.79,9/26/2026,1,167,30,Other,Pattaya,4638.35,Low,Warehouse C

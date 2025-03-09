@@ -21,7 +21,7 @@ def load_data(file_path):
     return sales_data
 
 # Streamlit App
-st.title("Demand Forecasting")
+st.title("Demand Forecasting Dashboard")
 
 # Load Data
 file_path = "E-Commerce_Analytics_Dataset_Term_Project.csv"

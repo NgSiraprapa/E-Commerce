@@ -13,7 +13,7 @@ import os
 # Load and preprocess dataset
 def load_data(file_path):
     if not os.path.exists(file_path):
-        st.error(f"File not found: {file_path}. Please check the file path and ensure the dataset exists.")
+        st.error(f"❌ File not found: {file_path}. Please check the file path and ensure the dataset exists.")
         return None
     df = pd.read_csv(file_path)
     df['Order Date'] = pd.to_datetime(df['Order Date'])
@@ -21,7 +21,8 @@ def load_data(file_path):
     return sales_data
 
 # Streamlit App
-st.title("Demand Forecasting Dashboard")
+st.title("📈 Demand Forecasting Dashboard")
+st.markdown("### 📊 Predict future sales trends using AI-powered models")
 
 # Load Data
 file_path = "E-Commerce_Analytics_Dataset_Term_Project.csv"
@@ -87,15 +88,16 @@ if sales_data is not None:
     })
 
     # Display all information on a single page
-    st.subheader("Sales Over Time")
-    st.plotly_chart(px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='Historical Sales Trend'))
+    st.subheader("📌 Sales Over Time")
+    st.plotly_chart(px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='📉 Historical Sales Trend', markers=True))
 
-    st.subheader("Predicted Sales (Next 6 Months)")
+    st.subheader("📌 Predicted Sales (Next 6 Months)")
     fig = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
-                  title='Sales Forecast Comparison')
+                  title='🔮 Sales Forecast Comparison', markers=True)
     st.plotly_chart(fig)
 
-    st.subheader("Model Performance Metrics")
-    st.write(pd.DataFrame(eval_results).T)
+    st.subheader("📌 Model Performance Metrics")
+    st.write("📊 **Performance of different forecasting models:**")
+    st.dataframe(pd.DataFrame(eval_results).T.style.format({"MAE": "{:.2f}", "RMSE": "{:.2f}"}))
 
-    st.write("The dashboard predicts future demand for the next 6 months based on historical e-commerce sales data using XGBoost, Random Forest, and Linear Regression for comparison.")
+    st.success("✅ The dashboard predicts future demand for the next 6 months based on historical e-commerce sales data using AI-powered forecasting models!")

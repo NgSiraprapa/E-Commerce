@@ -10,6 +10,9 @@ import numpy as np
 import math
 import os
 
+# Set Streamlit Page Configuration
+st.set_page_config(page_title="Demand Forecasting")
+
 # Load and preprocess dataset
 def load_data(file_path):
     if not os.path.exists(file_path):

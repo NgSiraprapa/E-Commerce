@@ -93,14 +93,14 @@ if sales_data is not None:
     # Display all information on a single page
     st.subheader("📌 Sales Over Time")
     fig1 = px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='📉 Historical Sales Trend')
-    fig1.update_traces(line=dict(width=2, mode='lines'))
+    fig1.update_traces(line=dict(width=2))
     fig1.update_layout(template="plotly_dark")
     st.plotly_chart(fig1, use_container_width=True)
 
     st.subheader("📌 Predicted Sales (Next 6 Months)")
     fig2 = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
                   title='🔮 Sales Forecast Comparison')
-    fig2.update_traces(line=dict(width=2, mode='lines'))
+    fig2.update_traces(line=dict(width=2))
     fig2.update_layout(template="plotly_dark")
     st.plotly_chart(fig2, use_container_width=True)
 

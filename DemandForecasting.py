@@ -21,7 +21,7 @@ def load_data(file_path):
     return sales_data
 
 # Streamlit App
-st.title("Demand Forecasting Dashboard")
+st.title("Demand Forecasting")
 
 # Load Data
 file_path = "E-Commerce_Analytics_Dataset_Term_Project.csv"
@@ -62,8 +62,6 @@ if sales_data is not None:
     # Add seasonality features
     future_df['sin_month'] = np.sin(2 * np.pi * future_df['month'] / 12)
     future_df['cos_month'] = np.cos(2 * np.pi * future_df['month'] / 12)
-
-    # Ensure feature alignment for prediction
     future_features = future_df[X_train.columns]
 
     # Predict future sales using all models
@@ -88,21 +86,16 @@ if sales_data is not None:
         'Linear Regression Predictions': lr_predictions
     })
 
-    # Tabs for visualization
-    tab1, tab2, tab3 = st.tabs(["Historical Data", "Forecast", "Model Comparison"])
+    # Display all information on a single page
+    st.subheader("Sales Over Time")
+    st.plotly_chart(px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='Historical Sales Trend'))
 
-    with tab1:
-        st.subheader("Sales Over Time")
-        st.plotly_chart(px.line(sales_data, x='Order Date', y='Purchase Amount (USD)', title='Historical Sales Trend'))
+    st.subheader("Predicted Sales (Next 6 Months)")
+    fig = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
+                  title='Sales Forecast Comparison')
+    st.plotly_chart(fig)
 
-    with tab2:
-        st.subheader("Predicted Sales (Next 6 Months)")
-        fig = px.line(forecast_df, x='Date', y=['XGBoost Predictions', 'Random Forest Predictions', 'Linear Regression Predictions'],
-                      title='Sales Forecast Comparison')
-        st.plotly_chart(fig)
-
-    with tab3:
-        st.subheader("Model Performance Metrics")
-        st.write(pd.DataFrame(eval_results).T)
+    st.subheader("Model Performance Metrics")
+    st.write(pd.DataFrame(eval_results).T)
 
     st.write("The dashboard predicts future demand for the next 6 months based on historical e-commerce sales data using XGBoost, Random Forest, and Linear Regression for comparison.")
